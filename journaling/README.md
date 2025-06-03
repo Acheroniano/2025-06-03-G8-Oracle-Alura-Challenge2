@@ -5,7 +5,7 @@
 
 i can get the json file on the link: https://github.com/ingridcristh/challenge2-data-science/blob/main/TelecomX_Data.json
 
-![Download json file](./images/001-DownloadJsonFile.jpg)
+![Download json file](../images/001-DownloadJsonFile.jpg)
 
 # II
 #### Graphical tree image of json file, manus.Ai
@@ -14,8 +14,7 @@ i can get the json file on the link: https://github.com/ingridcristh/challenge2-
 
 ###### prompt was used in manus.ia https://manus.im
 
-![Graphical tree image of json file](./images/002-json_tree_structure.png)
-
+![Graphical tree image of json file](../images/002-json_tree_structure.png
 ###### a imagem representa a estrutura detalhada dos dados, baseada no primeiro registro do arquivo
 
 # III
@@ -29,10 +28,9 @@ i can get the json file on the link: https://github.com/ingridcristh/challenge2-
 ```text
 JSON STRUCTURE TREE: TelecomX Customer Data
 ┌──────────────────────────────────────────────────┐
-│ Root: Array (704 customer records)                                  │
+│ Root: Array (704 customer records)               │
 └─┬────────────────────────────────────────────────┘ 
-  │
-  ├── Customer Object (each record)
+  │  ├── Customer Object (each record)
   │   │
   │   ├── customerID: String [Unique Identifier]
   │   │   └── Format: "XXXX-XXXXX"
