@@ -1,0 +1,60 @@
+JSON STRUCTURE TREE: TelecomX Customer Data
+┌──────────────────────────────────────────────────┐
+│ Root: Array (704 customer records)                                  │
+└─┬────────────────────────────────────────────────┘ 
+  │
+  ├── Customer Object (each record)
+  │   │
+  │   ├── customerID: String [Unique Identifier]
+  │   │   └── Format: "XXXX-XXXXX"
+  │   │
+  │   ├── Churn: String [Target Variable]
+  │   │   └── Values: "Yes", "No", "" (missing)
+  │   │
+  │   ├── customer: Object [Demographics]
+  │   │   ├── gender: String ──▶ {"Male", "Female"}
+  │   │   ├── SeniorCitizen: Integer ──▶ {0, 1}
+  │   │   ├── Partner: String ──▶ {"Yes", "No"}
+  │   │   ├── Dependents: String ──▶ {"Yes", "No"}
+  │   │   └── tenure: Integer [Months with company]
+  │   │       └── Range: 1-72 months
+  │   │
+  │   ├── phone: Object [Phone Services]
+  │   │   ├── PhoneService: String ──▶ {"Yes", "No"}
+  │   │   └── MultipleLines: String ──▶ 
+  │   │       └── Values: {"Yes", "No", "No phone service"}
+  │   │
+  │   ├── internet: Object [Internet Services]
+  │   │   ├── InternetService: String ──▶ 
+  │   │   │   └── {"DSL", "Fiber optic", "No"}
+  │   │   ├── OnlineSecurity: String ──▶ 
+  │   │   │   └── {"Yes", "No", "No internet service"}
+  │   │   ├── OnlineBackup: String ──▶ 
+  │   │   │   └── {"Yes", "No", "No internet service"}
+  │   │   ├── DeviceProtection: String ──▶ 
+  │   │   │   └── {"Yes", "No", "No internet service"}
+  │   │   ├── TechSupport: String ──▶ 
+  │   │   │   └── {"Yes", "No", "No internet service"}
+  │   │   ├── StreamingTV: String ──▶ 
+  │   │   │   └── {"Yes", "No", "No internet service"}
+  │   │   └── StreamingMovies: String ──▶ 
+  │   │       └── {"Yes", "No", "No internet service"}
+  │   │
+  │   └── account: Object [Billing Information]
+  │       ├── Contract: String ──▶ 
+  │       │   └── {"Month-to-month", "One year", "Two year"}
+  │       ├── PaperlessBilling: String ──▶ {"Yes", "No"}
+  │       ├── PaymentMethod: String ──▶ 
+  │       │   └── {
+  │       │        "Electronic check",
+  │       │        "Mailed check",
+  │       │        "Bank transfer (automatic)",
+  │       │        "Credit card (automatic)"
+  │       │       }
+  │       └── Charges: Object
+  │           ├── Monthly: Float [Recurring charge]
+  │           │   └── Range: $18.25-$118.75
+  │           └── Total: String [Lifetime value]
+  │               └── Note: Numeric string ($X.XX format)
+  │
+  └── ... (repeated for 704 customers)
