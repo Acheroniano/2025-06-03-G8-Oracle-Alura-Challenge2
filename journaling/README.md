@@ -14,7 +14,7 @@ i can get the json file on the link: https://github.com/ingridcristh/challenge2-
 
 ###### prompt was used in manus.ia https://manus.im
 
-![Graphical tree image of json file](../images/002-json_tree_structure.png
+![Graphical tree image of json file](../images/002-json_tree_structure.png)
 ###### a imagem representa a estrutura detalhada dos dados, baseada no primeiro registro do arquivo
 
 # III
@@ -23,7 +23,7 @@ i can get the json file on the link: https://github.com/ingridcristh/challenge2-
 ###### with this prompt : I want a graphical image to use in a presentation.
 ###### Show me a graphical tree of the structure of this json file, like the site jsoncrack.com can do.
 
-![Graphical tree image of json file](./images/003-DeepSeekR1-tree.jpg)
+![Graphical tree image of json file](../images/003-DeepSeekR1-tree.jpg)
 
 ```text
 JSON STRUCTURE TREE: TelecomX Customer Data
@@ -94,5 +94,6 @@ JSON STRUCTURE TREE: TelecomX Customer Data
 
 ###### i have to break the original .json file in the first 3 records.
 
-![Graphical tree image of json file](./images/004-JsonCrack-ImageStructure.jpeg)
+![Graphical tree image of json file](../images/004-JsonCrack-ImageStructure.jpeg)
+
 
