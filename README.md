@@ -29,9 +29,18 @@ Análise de dados de clientes de uma empresa de telecomunicações.
   <a href="https://www.w3schools.com/python" target="_new"><img src="https://img.shields.io/badge/-239120?style=for-the-badge&logo=python&logoColor=white" alt="python link"></a>
 </div>
 <hr>
-<h2> 📊 Análise de dados - Estrutura do repositório</h2>
+<h2 id="análise-de-dados---índice"> 📊 Índice </h2>
+
+### [Índice](#análise-de-dados---índice)
+### [Estrutura do repositório](#análise-de-dados---estrutura-do-repositório)
+### [Gráficos](#análise-de-dados---gráficos)
+### [Relatório Final](#análise-de-dados---relatório-final)
+### Clique aqui para ver a Estrutura do arquivo TelecomX_Data.json bruto - [![Files badge](https://img.shields.io/badge/README.md-%23000000?logo=Files&logoColor=yellow&labelColor=blue)](https://github.com/Acheroniano/2025-06-03-G8-Oracle-Alura-Challenge2/blob/main/journaling/README.md)
+
+<h2 id="análise-de-dados---estrutura-do-repositório"> 📊 Análise de dados - Estrutura do repositório</h2>
 
 ### Arquivos nesse repositório
+###### [Índice](#análise-de-dados---índice)
 
 ##### desafio2alura8oracle.ipynb - [![Files badge](https://img.shields.io/badge/desafio2alura8oracle.ipynb-%23000000?logo=Files&logoColor=yellow&labelColor=blue)](https://github.com/Acheroniano/2025-06-03-G8-Oracle-Alura-Challenge2/blob/main/notebook/desafio2alurag8oracle.ipynb)
 - notebook Jupyter Jupyter contendo células interativas de código e texto para usar no Google Colab e fazer a análise de dados.
@@ -60,7 +69,9 @@ Análise de dados de clientes de uma empresa de telecomunicações.
 ##### notebook - [![Files badge](https://img.shields.io/badge/notebook-%23000000?logo=Files&logoColor=yellow&labelColor=blue)](https://github.com/Acheroniano/2025-06-03-G8-Oracle-Alura-Challenge2/blob/main/notebook)
 - pasta com o notebook Jupyter contendo células interativas de código e texto para usar no Google Colab e fazer a análise de dados, arquivos .csv exportados e o arquivo .json bruto.
 <hr>
-<h2> 📊 Análise de dados - Gráficos </h2>
+<h2 id="análise-de-dados---gráficos"> 📊 Análise de dados - Gráficos </h2>
+
+###### [Índice](#análise-de-dados---índice)
 
 ### Quantidade de clientes por gênero
 
@@ -87,7 +98,9 @@ Análise de dados de clientes de uma empresa de telecomunicações.
 ![Taxa de Evasão por Tipo de Contrato e Gênero](./images/009-TaxaEvasaoContratoGenero.jpeg)
 
 <hr>
-<h2> 📊 Relatório Final </h2>
+<h2 id="análise-de-dados---relatório-final"> 📊 Relatório Final </h2>
+
+###### [Índice](#análise-de-dados---índice)
 
 Com as análises, chega-se a conclusão que os contratos mensais, são as principais causas da evasão de clientes, com uma ligeira margem para mulheres com esse tipo de contrato.
 

@@ -12,16 +12,13 @@ i can get the json file on the link: https://github.com/ingridcristh/challenge2-
 
 ###### with this prompt : I want a image, graphical tree of this json file, like the site jsoncrack.com prduce. I need a detailed image to use in a presentation.
 
-###### prompt was used in manus.ia https://manus.im
+###### prompt was used in manus.ai https://manus.im
 
 ![Graphical tree image of json file](../images/002-json_tree_structure.png)
 ###### a imagem representa a estrutura detalhada dos dados, baseada no primeiro registro do arquivo
 
 # III
-#### Graphical tree image of json file, deepseek R1 Ai
-
-###### with this prompt : I want a graphical image to use in a presentation.
-###### Show me a graphical tree of the structure of this json file, like the site jsoncrack.com can do.
+#### Text tree image of json file, Deepseek R1 Ai
 
 ```text
 JSON STRUCTURE TREE: TelecomX Customer Data
@@ -93,3 +90,4 @@ JSON STRUCTURE TREE: TelecomX Customer Data
 ![Graphical tree image of json file](../images/004-JsonCrack-ImageStructure.jpeg)
 
 
+[![Files badge](https://img.shields.io/badge/README.md-%23000000?logo=Files&logoColor=yellow&labelColor=blue)](https://github.com/Acheroniano/2025-06-03-G8-Oracle-Alura-Challenge2/blob/main/README.md)
