@@ -5,7 +5,7 @@ Segundo projeto do G8-Oracle-Alura
 Análise de dados de clientes de uma empresa de telecomunicações.
 
 ## desafio2alura8oracle.ipynb 
-###### - [![Files badge](https://img.shields.io/badge/desafio2alura8oracle.ipynb-%23000000?logo=Files&logoColor=yellow&labelColor=blue)](https://github.com/Acheroniano/2025-06-03-G8-Oracle-Alura-Challenge2/blob/main/notebook/desafio2alurag8oracle.ipynb)
+###### [![Files badge](https://img.shields.io/badge/desafio2alura8oracle.ipynb-%23000000?logo=Files&logoColor=yellow&labelColor=blue)](https://github.com/Acheroniano/2025-06-03-G8-Oracle-Alura-Challenge2/blob/main/notebook/desafio2alurag8oracle.ipynb)
 - notebook Jupyter contendo células interativas de código e texto para usar no Google Colab e fazer a análise de dados.
 
 <div>
@@ -29,7 +29,7 @@ Análise de dados de clientes de uma empresa de telecomunicações.
   <a href="https://www.w3schools.com/python" target="_new"><img src="https://img.shields.io/badge/-239120?style=for-the-badge&logo=python&logoColor=white" alt="python link"></a>
 </div>
 <hr>
-<h2> 📊 Análise de dados</h2>
+<h2> 📊 Análise de dados - Estrutura do repositório</h2>
 
 ### Arquivos nesse repositório
 
@@ -59,7 +59,23 @@ Análise de dados de clientes de uma empresa de telecomunicações.
 
 ##### notebook - [![Files badge](https://img.shields.io/badge/notebook-%23000000?logo=Files&logoColor=yellow&labelColor=blue)](https://github.com/Acheroniano/2025-06-03-G8-Oracle-Alura-Challenge2/blob/main/notebook)
 - pasta com o notebook Jupyter contendo células interativas de código e texto para usar no Google Colab e fazer a análise de dados, arquivos .csv exportados e o arquivo .json bruto.
+<hr>
+<h2> 📊 Análise de dados - Gráficos </h2>
 
+### Quantidade de clientes por gênero
 
+![Quantidade de clientes por gênero](../images/003-QtdCliGen.jpeg)
 
+### Custo médio diário por Desistência e Gênero
 
+![Custo médio diário por Desistência e Gênero](../images/005-CusMedDesGen.jpg)
+
+### Distribuição de clientes por Evasão
+
+![Distribuição de clientes por Evasão](../images/006-Evasao.jpeg)
+
+### Correlação entre Metodo de Pagamento e Evasão de Clientes
+
+![Correlação entre Metodo de Pagamento e Evasão de Clientes](../images/007-MetoPgoEvasao.jpeg)
+
+### 
