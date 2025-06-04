@@ -1,0 +1,464 @@
+customerID,Churn,customer_gender,customer_SeniorCitizen,customer_Partner,customer_Dependents,customer_tenure,phone_PhoneService,phone_MultipleLines,internet_InternetService,internet_OnlineSecurity,internet_OnlineBackup,internet_DeviceProtection,internet_TechSupport,internet_StreamingTV,internet_StreamingMovies,account_Contract,account_PaperlessBilling,account_PaymentMethod,account_Charges_Monthly,account_Charges_Total,Contas_Diarias
+0015-UOCOJ,False,Female,1,No,No,7,Yes,False,DSL,True,False,False,False,False,False,Month-to-month,Yes,Electronic check,48.2,340.35,1.61
+0018-NYROU,False,Female,0,Yes,No,5,Yes,False,Fiber optic,False,False,False,False,False,False,Month-to-month,Yes,Electronic check,68.95,351.5,2.3
+0021-IKXGC,False,Female,1,No,No,1,Yes,True,Fiber optic,False,False,False,False,False,False,Month-to-month,Yes,Electronic check,72.1,72.1,2.4
+0027-KWYKW,False,Female,0,Yes,Yes,23,Yes,True,Fiber optic,False,False,False,False,True,False,Month-to-month,Yes,Electronic check,83.75,1849.95,2.79
+0060-FUALY,False,Female,0,Yes,No,59,Yes,True,Fiber optic,True,True,False,False,True,False,Month-to-month,Yes,Electronic check,94.75,5597.65,3.16
+0093-EXYQL,False,Female,1,No,No,40,Yes,False,Fiber optic,False,False,False,False,True,True,Month-to-month,Yes,Electronic check,91.55,3673.6,3.05
+0096-BXERS,False,Female,0,Yes,No,6,Yes,True,DSL,False,False,False,False,False,False,Month-to-month,No,Electronic check,50.35,314.55,1.68
+0114-PEGZZ,False,Female,0,No,No,33,Yes,True,Fiber optic,False,True,True,False,True,True,Month-to-month,No,Electronic check,107.55,3645.5,3.58
+0139-IVFJG,False,Female,0,Yes,No,2,Yes,False,Fiber optic,True,True,False,False,True,False,Month-to-month,No,Electronic check,90.35,190.5,3.01
+0147-ESWWR,False,Female,1,Yes,No,39,Yes,True,Fiber optic,False,False,False,True,True,True,Month-to-month,Yes,Electronic check,101.25,3949.15,3.38
+0168-XZKBB,False,Female,0,Yes,No,19,Yes,True,Fiber optic,False,False,False,False,True,False,Month-to-month,Yes,Electronic check,86.85,1564.4,2.9
+0212-ISBBF,False,Female,0,No,No,22,No,False,DSL,False,True,False,False,True,True,Month-to-month,Yes,Electronic check,50.35,1098.85,1.68
+0224-RLWWD,False,Female,1,No,No,2,Yes,False,DSL,False,False,False,False,False,False,Month-to-month,Yes,Electronic check,44.3,89.3,1.48
+0248-IPDFW,False,Female,0,No,No,1,Yes,True,DSL,False,False,False,False,False,False,Month-to-month,Yes,Electronic check,50.1,50.1,1.67
+0289-IVARM,False,Female,0,No,No,35,Yes,False,DSL,True,True,True,False,False,False,Month-to-month,No,Electronic check,60.55,1982.6,2.02
+0292-WEGCH,False,Female,0,Yes,Yes,54,Yes,True,DSL,False,True,True,True,True,True,Month-to-month,Yes,Electronic check,86.2,4524.05,2.87
+0311-QYWSS,False,Female,0,No,No,6,Yes,False,DSL,True,False,False,False,False,False,Month-to-month,Yes,Electronic check,49.45,314.6,1.65
+0374-AACSZ,False,Female,0,No,No,1,Yes,False,DSL,True,False,False,False,False,False,Month-to-month,No,Electronic check,50.15,50.15,1.67
+0374-IOEGQ,False,Female,0,No,No,3,Yes,False,DSL,False,False,False,False,False,False,Month-to-month,No,Electronic check,44.6,122.7,1.49
+0411-EZJZE,False,Female,0,No,No,3,Yes,True,DSL,False,False,False,False,True,False,Month-to-month,Yes,Electronic check,60.25,170.5,2.01
+0420-HLGXF,False,Female,1,No,No,39,Yes,True,Fiber optic,False,False,True,False,True,True,Month-to-month,Yes,Electronic check,99.75,4036.0,3.32
+0434-CSFON,False,Female,0,Yes,No,47,Yes,True,Fiber optic,False,False,True,False,True,True,Month-to-month,Yes,Electronic check,100.5,4707.1,3.35
+0439-IFYUN,False,Female,1,No,No,18,Yes,False,Fiber optic,False,True,False,False,False,False,Month-to-month,Yes,Electronic check,74.7,1294.6,2.49
+0455-XFASS,False,Female,0,Yes,Yes,3,Yes,False,Fiber optic,False,False,False,False,False,False,Month-to-month,Yes,Electronic check,69.55,200.2,2.32
+0480-BIXDE,False,Female,0,Yes,No,19,Yes,False,Fiber optic,False,False,True,False,True,True,Month-to-month,Yes,Electronic check,96.8,1743.05,3.23
+0508-OOLTO,False,Female,0,Yes,Yes,2,Yes,False,Fiber optic,False,False,False,False,False,False,Month-to-month,Yes,Electronic check,71.65,135.75,2.39
+0510-EXSMQ,False,Female,0,No,No,9,Yes,False,Fiber optic,False,False,False,False,False,False,Month-to-month,No,Electronic check,69.05,651.5,2.3
+0523-VNGTF,False,Female,1,No,No,52,No,False,DSL,False,True,True,True,True,False,Month-to-month,Yes,Electronic check,50.5,2566.3,1.68
+0530-HBKHZ,False,Female,1,Yes,No,1,No,False,DSL,False,False,False,False,False,False,Month-to-month,Yes,Electronic check,24.8,24.8,0.83
+0567-GGCAC,False,Female,0,No,No,7,Yes,False,DSL,True,True,True,False,False,False,Month-to-month,No,Electronic check,61.4,438.9,2.05
+0570-BFQHT,False,Female,0,No,No,9,Yes,False,Fiber optic,False,True,True,False,False,False,Month-to-month,No,Electronic check,80.55,653.9,2.68
+0577-WHMEV,False,Female,0,Yes,No,16,Yes,True,Fiber optic,True,True,True,False,False,False,Month-to-month,No,Electronic check,90.7,1374.9,3.02
+0581-BXBUB,False,Female,1,No,No,4,Yes,False,Fiber optic,False,True,False,False,False,False,Month-to-month,No,Electronic check,72.75,317.75,2.42
+0639-QDHAY,False,Female,0,No,No,22,Yes,False,Fiber optic,True,False,False,True,False,True,Month-to-month,Yes,Electronic check,89.05,1886.25,2.97
+0650-BWOZN,False,Female,1,No,No,18,Yes,False,Fiber optic,False,True,False,False,False,False,Month-to-month,Yes,Electronic check,73.55,1359.45,2.45
+0668-OGMHD,False,Female,0,Yes,No,21,No,False,DSL,True,False,False,False,False,False,Month-to-month,No,Electronic check,28.5,629.35,0.95
+0674-EYYZV,False,Female,0,No,No,1,Yes,False,DSL,False,False,False,False,True,False,Month-to-month,Yes,Electronic check,54.65,54.65,1.82
+0682-USIXD,False,Female,0,Yes,No,21,Yes,False,Fiber optic,False,False,False,True,True,False,Month-to-month,Yes,Electronic check,86.05,1818.9,2.87
+0722-SVSFK,False,Female,0,No,No,7,Yes,False,Fiber optic,False,False,True,True,True,True,Month-to-month,Yes,Electronic check,100.4,715.0,3.35
+0749-IRGQE,False,Female,1,Yes,No,13,No,False,DSL,False,False,False,False,True,True,Month-to-month,No,Electronic check,45.3,528.45,1.51
+0771-WLCLA,False,Female,0,Yes,Yes,16,Yes,True,Fiber optic,True,False,True,True,True,True,Month-to-month,Yes,Electronic check,112.95,1882.55,3.76
+0793-TWELN,False,Female,0,No,No,4,Yes,True,Fiber optic,True,False,False,False,False,False,Month-to-month,Yes,Electronic check,80.15,319.85,2.67
+0799-DDIHE,False,Female,0,Yes,Yes,15,Yes,False,DSL,False,False,False,False,False,False,Month-to-month,No,Electronic check,46.3,639.45,1.54
+0804-XBFBV,False,Female,0,No,Yes,11,No,False,DSL,False,False,False,False,False,False,Month-to-month,No,Electronic check,25.2,321.05,0.84
+0811-GSDTP,False,Female,0,No,Yes,13,No,False,DSL,False,True,False,False,False,False,Month-to-month,No,Electronic check,30.15,382.2,1.0
+0822-QGCXA,False,Female,1,Yes,No,27,Yes,True,DSL,False,True,True,True,True,True,Month-to-month,No,Electronic check,83.85,2310.2,2.8
+0840-DFEZH,False,Female,0,No,No,7,Yes,True,Fiber optic,False,False,False,False,False,False,Month-to-month,Yes,Electronic check,75.35,564.65,2.51
+0840-JCCUW,False,Female,0,Yes,No,2,Yes,False,DSL,False,False,False,False,False,False,Month-to-month,Yes,Electronic check,45.0,89.75,1.5
+0851-DFJKB,False,Female,0,No,No,15,Yes,False,DSL,True,False,True,True,False,False,Month-to-month,No,Electronic check,58.95,955.15,1.96
+0916-QOFDP,False,Female,1,Yes,Yes,14,Yes,True,Fiber optic,False,False,False,False,True,True,Month-to-month,Yes,Electronic check,95.8,1346.3,3.19
+0924-BJCRC,False,Female,1,Yes,No,60,Yes,True,Fiber optic,False,True,False,False,False,True,Month-to-month,No,Electronic check,89.45,5294.6,2.98
+0928-XUTSN,False,Female,0,No,No,13,Yes,False,Fiber optic,False,False,False,False,False,True,Month-to-month,Yes,Electronic check,80.5,1011.8,2.68
+0968-FTNYZ,False,Female,0,No,Yes,13,Yes,False,DSL,True,True,False,False,False,False,Month-to-month,Yes,Electronic check,56.0,764.55,1.87
+0980-PVMRC,False,Female,0,Yes,Yes,40,No,False,DSL,False,True,False,False,True,True,Month-to-month,Yes,Electronic check,50.85,2036.55,1.7
+0988-JRWWP,False,Female,0,No,No,3,Yes,False,DSL,False,False,False,False,True,False,Month-to-month,Yes,Electronic check,54.2,140.4,1.81
+1013-QCWAM,False,Female,1,Yes,No,66,Yes,True,Fiber optic,False,True,False,False,True,True,Month-to-month,Yes,Electronic check,100.8,6690.75,3.36
+1020-JPQOW,False,Female,0,Yes,No,56,Yes,True,Fiber optic,False,True,True,True,False,False,Month-to-month,No,Electronic check,90.55,5116.6,3.02
+1035-IPQPU,False,Female,1,Yes,No,63,Yes,True,Fiber optic,False,True,True,False,True,True,Month-to-month,Yes,Electronic check,103.5,6479.4,3.45
+1077-HUUJM,False,Female,0,No,Yes,7,Yes,False,Fiber optic,False,False,False,False,False,False,Month-to-month,Yes,Electronic check,71.05,472.65,2.37
+1078-TDCRN,False,Female,1,Yes,No,3,No,False,DSL,False,True,False,False,False,False,Month-to-month,Yes,Electronic check,30.75,82.85,1.02
+1101-SSWAG,False,Female,0,Yes,No,15,Yes,True,DSL,False,False,False,False,False,False,Month-to-month,Yes,Electronic check,51.1,711.15,1.7
+1156-ZFYDO,False,Female,0,No,No,1,Yes,False,No,False,False,False,False,False,False,Month-to-month,No,Electronic check,19.75,19.75,0.66
+1159-WFSGR,False,Female,0,Yes,Yes,16,Yes,False,No,False,False,False,False,False,False,Month-to-month,No,Electronic check,20.4,321.4,0.68
+1173-XZPYF,False,Female,0,No,No,11,Yes,True,Fiber optic,False,False,True,False,True,False,Month-to-month,Yes,Electronic check,89.2,990.3,2.97
+1197-BVMVG,False,Female,1,No,No,4,Yes,True,Fiber optic,False,False,False,False,False,False,Month-to-month,Yes,Electronic check,74.45,294.45,2.48
+1200-TUZHR,False,Female,1,No,No,8,Yes,True,Fiber optic,False,False,False,False,False,True,Month-to-month,No,Electronic check,85.2,695.75,2.84
+1219-NNDDO,False,Female,0,No,No,9,Yes,True,Fiber optic,False,False,False,False,False,False,Month-to-month,Yes,Electronic check,76.85,663.55,2.56
+1232-TPUYA,False,Female,1,Yes,No,1,Yes,False,Fiber optic,False,False,False,False,False,False,Month-to-month,Yes,Electronic check,69.55,69.55,2.32
+1251-STYSZ,False,Female,1,No,No,4,Yes,True,Fiber optic,True,False,False,False,False,False,Month-to-month,Yes,Electronic check,80.25,303.7,2.68
+1310-QRITU,False,Female,0,No,No,18,Yes,True,DSL,False,False,False,False,False,False,Month-to-month,Yes,Electronic check,50.3,913.3,1.68
+1355-KUSBG,False,Female,0,Yes,Yes,7,Yes,True,DSL,False,False,False,False,False,False,Month-to-month,No,Electronic check,48.8,349.8,1.63
+1393-IMKZG,False,Female,0,No,No,1,Yes,False,Fiber optic,False,False,False,True,True,True,Month-to-month,Yes,Electronic check,95.85,95.85,3.2
+1394-SUIUH,False,Female,1,Yes,No,44,Yes,False,Fiber optic,True,True,False,True,False,False,Month-to-month,Yes,Electronic check,85.15,3670.5,2.84
+1427-VERSM,False,Female,0,Yes,No,56,Yes,False,Fiber optic,False,False,True,True,True,True,Month-to-month,Yes,Electronic check,98.7,5669.5,3.29
+1442-BQPVU,False,Female,0,No,No,13,No,False,DSL,False,True,False,False,False,False,Month-to-month,No,Electronic check,29.15,357.15,0.97
+1469-LBJQJ,False,Female,0,Yes,No,66,Yes,True,Fiber optic,False,True,True,False,True,True,Month-to-month,Yes,Electronic check,105.2,6936.85,3.51
+1471-GIQKQ,False,Female,0,No,No,1,Yes,False,DSL,False,True,False,False,False,False,Month-to-month,No,Electronic check,49.95,49.95,1.66
+1478-VPOAD,False,Female,0,No,No,1,Yes,False,DSL,False,False,False,False,False,False,Month-to-month,No,Electronic check,43.8,43.8,1.46
+1536-HBSWP,False,Female,0,No,No,1,Yes,False,DSL,False,False,False,True,False,False,Month-to-month,Yes,Electronic check,49.9,49.9,1.66
+1550-EENBN,False,Female,0,No,No,31,Yes,True,Fiber optic,True,True,False,False,True,True,Month-to-month,No,Electronic check,104.35,3205.6,3.48
+1575-KRZZE,False,Female,0,No,No,4,Yes,False,DSL,True,True,False,False,False,False,Month-to-month,No,Electronic check,55.2,220.65,1.84
+1596-OQSPS,False,Female,0,No,No,11,Yes,False,DSL,False,True,False,False,False,False,Month-to-month,No,Electronic check,51.1,531.15,1.7
+1640-PLFMP,False,Female,0,No,No,1,Yes,False,Fiber optic,False,False,False,False,False,False,Month-to-month,Yes,Electronic check,70.25,70.25,2.34
+1641-RQDAY,False,Female,1,Yes,Yes,32,Yes,True,Fiber optic,False,True,False,False,True,True,Month-to-month,Yes,Electronic check,100.4,3217.65,3.35
+1658-TJVOA,False,Female,1,No,No,6,Yes,False,Fiber optic,True,False,False,False,False,False,Month-to-month,Yes,Electronic check,74.1,450.9,2.47
+1666-JXLKU,False,Female,0,No,No,37,Yes,True,Fiber optic,False,False,True,False,True,True,Month-to-month,Yes,Electronic check,100.05,3810.55,3.34
+1689-YQBYY,False,Female,0,No,Yes,12,Yes,True,Fiber optic,False,False,False,False,False,False,Month-to-month,Yes,Electronic check,76.6,893.0,2.55
+1728-BQDMA,False,Female,0,No,No,2,Yes,False,DSL,False,False,False,False,False,False,Month-to-month,No,Electronic check,44.45,82.7,1.48
+1730-ZMAME,False,Female,1,No,No,32,Yes,False,Fiber optic,False,False,False,False,False,True,Month-to-month,Yes,Electronic check,79.5,2665.0,2.65
+1744-JHKYS,False,Female,0,Yes,No,34,Yes,True,No,False,False,False,False,False,False,Month-to-month,No,Electronic check,24.7,780.2,0.82
+1767-TGTKO,False,Female,0,Yes,Yes,8,Yes,False,DSL,False,False,False,False,False,False,Month-to-month,Yes,Electronic check,45.45,411.75,1.52
+1768-HNVGJ,False,Female,1,No,No,45,Yes,True,DSL,True,False,False,True,False,True,Month-to-month,Yes,Electronic check,70.05,3062.45,2.34
+1769-GRUIK,False,Female,0,No,No,18,Yes,False,Fiber optic,False,False,False,False,False,False,Month-to-month,Yes,Electronic check,71.1,1247.75,2.37
+1803-BGNBD,False,Female,0,No,No,12,Yes,False,DSL,False,True,False,True,False,False,Month-to-month,Yes,Electronic check,54.3,654.5,1.81
+1818-ESQMW,False,Female,0,No,No,27,Yes,False,Fiber optic,False,False,True,True,False,True,Month-to-month,Yes,Electronic check,89.2,2383.6,2.97
+1849-RJYIG,False,Female,0,No,No,8,Yes,False,DSL,True,False,False,False,True,False,Month-to-month,Yes,Electronic check,60.0,487.75,2.0
+1910-FMXJM,False,Female,0,Yes,No,36,Yes,False,Fiber optic,False,False,False,False,False,True,Month-to-month,No,Electronic check,80.4,2937.65,2.68
+1984-GPTEH,False,Female,0,No,No,29,Yes,True,No,False,False,False,False,False,False,Month-to-month,No,Electronic check,25.15,702.0,0.84
+2027-WKXMW,False,Female,0,Yes,No,63,Yes,True,Fiber optic,False,True,True,True,True,True,Month-to-month,Yes,Electronic check,108.75,6871.7,3.62
+2038-LLMLM,False,Female,0,No,No,48,Yes,True,Fiber optic,False,False,True,True,True,True,Month-to-month,Yes,Electronic check,103.85,4946.05,3.46
+2041-JIJCI,False,Female,0,No,No,5,Yes,True,DSL,False,True,False,False,False,True,Month-to-month,Yes,Electronic check,64.0,370.25,2.13
+2067-QYTCF,False,Female,0,Yes,No,64,Yes,True,Fiber optic,False,True,True,True,True,True,Month-to-month,Yes,Electronic check,111.15,6953.4,3.7
+2080-CAZNM,False,Female,1,No,No,41,Yes,True,Fiber optic,False,True,True,False,True,True,Month-to-month,Yes,Electronic check,104.4,4133.95,3.48
+2101-RANCD,False,Female,0,No,No,55,Yes,True,Fiber optic,False,False,False,False,False,False,Month-to-month,Yes,Electronic check,73.1,4144.9,2.44
+2107-FBPTK,False,Female,1,No,No,30,Yes,True,Fiber optic,False,True,True,False,True,True,Month-to-month,Yes,Electronic check,104.1,3121.1,3.47
+2122-YWVYA,False,Female,0,No,No,18,Yes,False,Fiber optic,True,False,False,False,False,False,Month-to-month,Yes,Electronic check,75.4,1380.4,2.51
+2123-AGEEN,False,Female,1,No,No,7,Yes,False,Fiber optic,False,False,True,False,True,False,Month-to-month,Yes,Electronic check,84.35,609.65,2.81
+2129-ALKBS,False,Female,0,Yes,Yes,40,Yes,True,No,False,False,False,False,False,False,Month-to-month,Yes,Electronic check,26.2,1077.5,0.87
+2207-QPJED,False,Female,1,Yes,No,37,Yes,False,Fiber optic,False,False,True,True,True,False,Month-to-month,No,Electronic check,90.0,3371.75,3.0
+2208-NQBCT,False,Female,0,Yes,Yes,26,Yes,False,Fiber optic,True,True,False,False,False,False,Month-to-month,No,Electronic check,81.95,2070.05,2.73
+2235-DWLJU,False,Female,1,No,No,6,No,False,DSL,False,False,False,False,True,True,Month-to-month,Yes,Electronic check,44.4,263.05,1.48
+2262-SLNVK,False,Female,0,No,No,1,Yes,False,Fiber optic,False,False,False,False,False,False,Month-to-month,No,Electronic check,70.1,70.1,2.34
+2272-UOINI,False,Female,0,No,No,7,Yes,False,DSL,True,True,False,True,True,True,Month-to-month,Yes,Electronic check,78.5,571.05,2.62
+2325-NBPZG,False,Female,0,No,No,3,Yes,False,Fiber optic,True,False,False,False,False,False,Month-to-month,Yes,Electronic check,74.55,233.65,2.48
+2346-DJQTB,False,Female,0,No,No,35,No,False,DSL,False,False,False,False,False,False,Month-to-month,No,Electronic check,24.15,812.5,0.8
+2386-OWURY,False,Female,0,No,No,58,Yes,False,Fiber optic,False,False,False,True,True,True,Month-to-month,Yes,Electronic check,95.3,5817.7,3.18
+2424-GXJQO,False,Female,0,No,No,3,Yes,False,DSL,False,False,True,False,True,False,Month-to-month,No,Electronic check,57.55,161.45,1.92
+2436-QBZFP,False,Female,0,Yes,Yes,22,No,False,DSL,False,True,False,False,True,False,Month-to-month,No,Electronic check,39.2,849.9,1.31
+2495-KZNFB,False,Female,0,No,No,33,Yes,True,Fiber optic,True,False,False,False,False,True,Month-to-month,Yes,Electronic check,90.65,2989.6,3.02
+2523-EWWZL,False,Female,0,Yes,No,27,Yes,False,Fiber optic,False,True,False,False,False,False,Month-to-month,Yes,Electronic check,76.1,2093.4,2.54
+2545-EBUPK,False,Female,1,No,No,2,Yes,True,Fiber optic,False,False,False,False,False,True,Month-to-month,Yes,Electronic check,84.05,186.05,2.8
+2582-FFFZR,False,Female,0,No,No,22,No,False,DSL,False,False,True,False,True,True,Month-to-month,Yes,Electronic check,50.6,1073.3,1.69
+2604-IJPDU,False,Female,0,Yes,No,20,Yes,False,Fiber optic,True,True,False,True,True,False,Month-to-month,Yes,Electronic check,96.55,1901.65,3.22
+2625-TRCZQ,False,Female,0,Yes,No,51,No,False,DSL,False,True,False,False,True,True,Month-to-month,Yes,Electronic check,49.65,2553.35,1.66
+2657-VPXTA,False,Female,0,Yes,Yes,10,Yes,False,Fiber optic,False,False,False,False,True,True,Month-to-month,Yes,Electronic check,88.85,929.45,2.96
+2672-TGEFF,False,Female,0,Yes,Yes,37,Yes,True,Fiber optic,False,True,False,False,True,False,Month-to-month,Yes,Electronic check,88.8,3340.55,2.96
+2712-SYWAY,False,Female,0,No,No,1,Yes,True,No,False,False,False,False,False,False,Month-to-month,Yes,Electronic check,25.7,25.7,0.86
+2786-GCDPI,False,Female,1,No,No,50,Yes,True,Fiber optic,False,False,True,True,True,True,Month-to-month,Yes,Electronic check,104.95,5222.35,3.5
+2799-ARNLO,False,Female,1,Yes,No,5,Yes,False,Fiber optic,False,False,False,False,False,False,Month-to-month,Yes,Electronic check,69.35,341.6,2.31
+2809-ZMYOQ,False,Female,0,No,No,32,Yes,True,Fiber optic,False,False,True,False,True,True,Month-to-month,Yes,Electronic check,101.35,3334.9,3.38
+2824-MYYBN,False,Female,0,Yes,Yes,37,Yes,True,Fiber optic,False,False,False,False,True,True,Month-to-month,Yes,Electronic check,95.25,3314.15,3.18
+2832-KJCRD,False,Female,0,No,No,38,Yes,True,Fiber optic,False,False,True,True,True,True,Month-to-month,Yes,Electronic check,103.65,3988.5,3.46
+2832-SCUCO,False,Female,0,No,No,2,Yes,False,No,False,False,False,False,False,False,Month-to-month,No,Electronic check,19.9,57.4,0.66
+2874-YXVVA,False,Female,0,No,No,34,Yes,False,Fiber optic,False,True,True,True,True,True,Month-to-month,Yes,Electronic check,105.1,3634.8,3.5
+2876-GZYZC,False,Female,0,No,No,13,Yes,True,Fiber optic,False,False,False,False,False,True,Month-to-month,Yes,Electronic check,85.95,1215.65,2.86
+2921-XWDJH,False,Female,1,Yes,No,38,Yes,False,Fiber optic,True,False,False,False,False,True,Month-to-month,Yes,Electronic check,83.45,3147.15,2.78
+2937-FTHUR,False,Female,0,No,Yes,18,Yes,True,DSL,True,False,False,False,False,True,Month-to-month,No,Electronic check,64.8,1166.7,2.16
+2969-QWUBZ,False,Female,0,No,No,2,No,False,DSL,False,True,False,False,True,True,Month-to-month,No,Electronic check,51.4,96.8,1.71
+2971-SGAFL,False,Female,0,No,No,13,Yes,True,DSL,True,False,True,False,True,True,Month-to-month,Yes,Electronic check,78.75,995.35,2.62
+2984-AFWNC,False,Female,0,No,No,3,Yes,False,Fiber optic,False,True,False,False,True,True,Month-to-month,No,Electronic check,95.4,293.15,3.18
+2985-FMWYF,False,Female,0,No,No,23,Yes,True,Fiber optic,False,False,False,False,True,True,Month-to-month,Yes,Electronic check,93.5,2341.55,3.12
+2988-GBIVW,False,Female,1,Yes,No,70,Yes,True,Fiber optic,True,False,False,False,False,True,Month-to-month,Yes,Electronic check,90.85,6470.1,3.03
+3002-WQZWT,False,Female,0,No,No,29,Yes,True,Fiber optic,False,False,False,False,False,False,Month-to-month,Yes,Electronic check,74.2,1993.25,2.47
+3003-CMDUU,False,Female,0,Yes,No,25,Yes,False,Fiber optic,False,False,False,True,True,True,Month-to-month,Yes,Electronic check,95.15,2395.7,3.17
+3062-ICYZQ,False,Female,0,Yes,Yes,51,Yes,True,Fiber optic,True,True,False,False,False,True,Month-to-month,Yes,Electronic check,93.8,4539.35,3.13
+3097-PYWXL,False,Female,0,Yes,Yes,4,Yes,False,No,False,False,False,False,False,False,Month-to-month,Yes,Electronic check,19.95,82.9,0.66
+3191-CSNMG,False,Female,0,Yes,Yes,3,Yes,False,Fiber optic,False,False,False,False,True,False,Month-to-month,Yes,Electronic check,80.7,239.45,2.69
+3199-XGZCY,False,Female,0,No,No,8,Yes,True,Fiber optic,False,False,False,False,False,False,Month-to-month,Yes,Electronic check,75.25,576.7,2.51
+3301-LSLWQ,False,Female,0,No,No,29,Yes,True,DSL,True,False,False,False,False,True,Month-to-month,Yes,Electronic check,66.1,1912.15,2.2
+3317-VLGQT,False,Female,0,Yes,No,14,Yes,False,Fiber optic,False,False,False,False,False,True,Month-to-month,Yes,Electronic check,78.1,1122.4,2.6
+3351-NGXYI,False,Female,1,No,No,16,Yes,True,DSL,True,False,False,False,False,False,Month-to-month,Yes,Electronic check,54.1,889.0,1.8
+3365-SAIGS,False,Female,0,No,No,17,Yes,False,Fiber optic,False,True,False,False,True,False,Month-to-month,Yes,Electronic check,83.55,1329.15,2.78
+3370-HXOPH,False,Female,0,No,No,3,Yes,True,Fiber optic,False,False,False,False,False,False,Month-to-month,No,Electronic check,76.1,257.6,2.54
+3404-JNXAX,False,Female,0,Yes,Yes,51,Yes,True,Fiber optic,False,False,False,True,False,False,Month-to-month,Yes,Electronic check,80.75,4116.9,2.69
+3420-YJLQT,False,Female,0,No,No,2,Yes,True,Fiber optic,False,True,False,False,False,False,Month-to-month,No,Electronic check,79.55,151.75,2.65
+3427-GGZZI,False,Female,0,Yes,No,19,Yes,True,Fiber optic,False,True,False,False,False,True,Month-to-month,Yes,Electronic check,89.1,1620.8,2.97
+3452-GWUIN,False,Female,1,Yes,No,19,Yes,True,Fiber optic,False,False,False,False,True,True,Month-to-month,Yes,Electronic check,94.95,1760.25,3.16
+3462-BJQQA,False,Female,0,No,No,6,Yes,True,Fiber optic,False,True,False,False,True,False,Month-to-month,Yes,Electronic check,89.75,552.65,2.99
+3489-HHPFY,False,Female,0,Yes,No,2,Yes,True,Fiber optic,False,False,False,False,True,False,Month-to-month,Yes,Electronic check,84.05,134.05,2.8
+3503-TYDAY,False,Female,0,Yes,No,43,Yes,True,Fiber optic,False,True,False,False,False,False,Month-to-month,No,Electronic check,80.45,3398.9,2.68
+3541-ZNUHK,False,Female,0,Yes,Yes,55,Yes,True,Fiber optic,True,True,False,False,False,False,Month-to-month,Yes,Electronic check,85.1,4600.95,2.84
+3545-CNWRG,False,Female,0,Yes,Yes,49,Yes,True,Fiber optic,False,True,False,False,True,True,Month-to-month,Yes,Electronic check,98.35,4889.2,3.28
+3569-EDBPQ,False,Female,0,No,No,24,Yes,True,Fiber optic,True,False,False,True,False,False,Month-to-month,Yes,Electronic check,84.35,1938.05,2.81
+3570-YUEKJ,False,Female,0,No,No,42,Yes,False,DSL,False,True,False,False,False,False,Month-to-month,Yes,Electronic check,49.55,2077.95,1.65
+3588-WSTTJ,False,Female,1,No,No,35,Yes,True,Fiber optic,True,False,False,False,True,True,Month-to-month,Yes,Electronic check,99.05,3554.6,3.3
+3604-WLABM,False,Female,0,No,No,10,Yes,False,DSL,False,False,True,True,False,False,Month-to-month,No,Electronic check,54.25,583.0,1.81
+3639-XJHKQ,False,Female,0,No,Yes,19,Yes,False,DSL,True,True,True,False,False,False,Month-to-month,Yes,Electronic check,60.6,1297.8,2.02
+3665-JATSN,False,Female,0,No,No,19,No,False,DSL,False,True,False,False,False,True,Month-to-month,Yes,Electronic check,39.7,710.05,1.32
+3679-XASPY,False,Female,0,Yes,Yes,1,Yes,False,No,False,False,False,False,False,False,Month-to-month,No,Electronic check,19.45,19.45,0.65
+3689-MOZGR,False,Female,0,No,No,29,No,False,DSL,False,False,False,True,False,False,Month-to-month,Yes,Electronic check,31.2,926.2,1.04
+3714-NTNFO,False,Female,0,No,No,49,Yes,True,Fiber optic,False,False,False,False,False,True,Month-to-month,Yes,Electronic check,84.5,3906.7,2.82
+3744-ZBHON,False,Female,0,No,No,3,Yes,False,No,False,False,False,False,False,False,Month-to-month,No,Electronic check,20.2,65.95,0.67
+3780-YVMFA,False,Female,0,Yes,Yes,8,Yes,False,DSL,False,False,False,True,True,True,Month-to-month,Yes,Electronic check,68.55,564.35,2.28
+3781-LIPVO,False,Female,0,Yes,No,7,Yes,True,Fiber optic,False,False,False,False,True,False,Month-to-month,Yes,Electronic check,86.5,582.5,2.88
+3798-EPWRR,False,Female,1,No,No,2,Yes,False,DSL,False,False,False,False,False,False,Month-to-month,No,Electronic check,43.95,85.1,1.46
+3803-QHPWH,False,Female,1,Yes,No,29,No,False,DSL,True,False,True,False,False,True,Month-to-month,Yes,Electronic check,45.0,1228.65,1.5
+3807-XHCJH,False,Female,0,Yes,Yes,1,Yes,False,No,False,False,False,False,False,False,Month-to-month,No,Electronic check,20.0,20.0,0.67
+3808-HFKDE,False,Female,0,No,No,20,Yes,False,DSL,False,False,False,False,False,False,Month-to-month,Yes,Electronic check,44.35,927.15,1.48
+3841-CONLJ,False,Female,0,Yes,No,1,No,False,DSL,False,False,False,False,False,True,Month-to-month,No,Electronic check,35.0,35.0,1.17
+3878-AVSOQ,False,Female,1,No,No,1,Yes,False,Fiber optic,False,False,False,False,False,False,Month-to-month,Yes,Electronic check,71.25,71.25,2.38
+3898-GUYTS,False,Female,1,No,No,45,Yes,True,Fiber optic,True,True,False,True,True,False,Month-to-month,Yes,Electronic check,97.05,4385.05,3.24
+3951-NJCVI,False,Female,1,Yes,No,42,Yes,True,Fiber optic,False,False,False,False,True,True,Month-to-month,Yes,Electronic check,95.05,3944.5,3.17
+3956-MGXOG,False,Female,0,No,No,28,Yes,False,Fiber optic,False,False,False,False,False,True,Month-to-month,Yes,Electronic check,80.6,2244.95,2.69
+3969-GYXEL,False,Female,0,No,No,11,Yes,False,Fiber optic,True,False,False,False,False,False,Month-to-month,No,Electronic check,76.4,838.7,2.55
+3995-WFCSM,False,Female,0,No,No,2,Yes,False,DSL,False,False,True,False,False,True,Month-to-month,No,Electronic check,60.85,111.4,2.03
+3999-WRNGR,False,Female,0,Yes,Yes,60,No,False,DSL,False,True,False,False,True,True,Month-to-month,Yes,Electronic check,49.75,3069.45,1.66
+4001-TSBTV,False,Female,0,Yes,Yes,58,Yes,False,Fiber optic,False,True,True,False,True,False,Month-to-month,Yes,Electronic check,91.55,5511.65,3.05
+4007-NHVHI,False,Female,1,No,No,56,Yes,True,Fiber optic,True,True,False,False,False,True,Month-to-month,Yes,Electronic check,96.85,5219.65,3.23
+4012-ZTHBR,False,Female,0,Yes,Yes,21,Yes,False,DSL,False,False,False,False,False,False,Month-to-month,Yes,Electronic check,44.95,926.25,1.5
+4065-JJAVA,False,Female,0,No,No,1,Yes,False,DSL,False,True,False,False,False,False,Month-to-month,No,Electronic check,49.5,49.5,1.65
+4080-IIARD,False,Female,0,Yes,No,13,Yes,True,DSL,True,True,False,True,True,False,Month-to-month,Yes,Electronic check,76.2,981.45,2.54
+4090-KPJIP,False,Female,0,No,No,3,Yes,True,Fiber optic,False,False,False,False,False,False,Month-to-month,Yes,Electronic check,74.95,212.4,2.5
+4115-NZRKS,False,Female,1,No,No,7,Yes,False,Fiber optic,False,False,False,False,True,True,Month-to-month,Yes,Electronic check,89.15,574.35,2.97
+4123-VPQTQ,False,Female,0,No,No,3,Yes,False,No,False,False,False,False,False,False,Month-to-month,No,Electronic check,19.55,61.05,0.65
+4128-ETESU,False,Female,1,Yes,No,47,Yes,True,Fiber optic,False,False,True,False,True,True,Month-to-month,No,Electronic check,99.7,4747.2,3.32
+4183-MYFRB,False,Female,0,No,No,21,Yes,False,Fiber optic,False,True,True,False,False,True,Month-to-month,Yes,Electronic check,90.05,1862.9,3.0
+4195-NZGTA,False,Female,0,No,No,1,No,False,DSL,False,False,False,False,False,False,Month-to-month,No,Electronic check,25.25,25.25,0.84
+4220-TINQT,False,Female,0,Yes,No,61,Yes,True,Fiber optic,False,False,True,True,True,True,Month-to-month,Yes,Electronic check,106.35,6751.35,3.54
+4236-UJPWO,False,Female,0,No,No,2,No,False,DSL,False,False,False,False,False,False,Month-to-month,No,Electronic check,24.5,46.4,0.82
+4273-MBHYA,False,Female,0,No,Yes,1,Yes,False,Fiber optic,False,False,False,False,True,True,Month-to-month,Yes,Electronic check,89.35,89.35,2.98
+4290-UZSKY,False,Female,0,No,No,4,Yes,False,Fiber optic,False,False,False,False,True,False,Month-to-month,Yes,Electronic check,79.0,303.15,2.63
+4431-EDMIQ,False,Female,0,Yes,Yes,7,Yes,False,DSL,True,True,True,True,True,False,Month-to-month,Yes,Electronic check,75.7,554.05,2.52
+4439-YRNVD,False,Female,0,No,No,10,No,False,DSL,False,True,False,True,False,False,Month-to-month,No,Electronic check,36.25,374.0,1.21
+4465-VDKIQ,False,Female,0,No,No,18,Yes,False,Fiber optic,False,True,True,False,False,False,Month-to-month,No,Electronic check,77.8,1358.6,2.59
+4468-KAZHE,False,Female,1,Yes,No,20,Yes,False,DSL,False,True,False,False,False,True,Month-to-month,Yes,Electronic check,60.0,1259.35,2.0
+4471-OIIDG,False,Female,0,No,No,10,Yes,True,Fiber optic,False,False,True,False,True,True,Month-to-month,Yes,Electronic check,100.6,1060.2,3.35
+4482-EWFMI,False,Female,0,No,No,2,Yes,False,Fiber optic,False,False,False,False,False,False,Month-to-month,Yes,Electronic check,69.7,135.2,2.32
+4521-YEEHE,False,Female,0,Yes,No,18,Yes,True,Fiber optic,False,False,False,True,True,False,Month-to-month,Yes,Electronic check,88.85,1594.75,2.96
+4522-AKYLR,False,Female,1,No,No,13,Yes,False,DSL,False,True,True,False,False,False,Month-to-month,Yes,Electronic check,54.8,731.3,1.83
+4537-DKTAL,False,Female,0,No,No,2,Yes,False,DSL,False,False,False,False,False,False,Month-to-month,No,Electronic check,45.55,84.4,1.52
+4553-DVPZG,False,Female,0,Yes,No,62,Yes,True,Fiber optic,False,False,True,False,True,True,Month-to-month,Yes,Electronic check,101.35,6164.7,3.38
+4570-QHXHL,False,Female,0,No,No,9,Yes,False,DSL,False,False,False,False,False,False,Month-to-month,Yes,Electronic check,43.75,405.7,1.46
+4581-LNWUM,False,Female,0,No,No,13,No,False,DSL,False,False,True,False,True,True,Month-to-month,No,Electronic check,49.15,649.4,1.64
+4603-FDONU,False,Female,0,Yes,Yes,32,No,False,DSL,True,True,False,False,False,False,Month-to-month,Yes,Electronic check,35.15,1051.05,1.17
+4612-SSVHJ,False,Female,1,No,No,20,Yes,False,Fiber optic,False,False,False,False,False,True,Month-to-month,Yes,Electronic check,81.45,1671.6,2.72
+4626-JYHAY,False,Female,1,No,No,20,Yes,True,Fiber optic,False,True,True,False,False,True,Month-to-month,Yes,Electronic check,94.1,1782.4,3.14
+4673-KKSLS,False,Female,0,No,No,31,Yes,False,Fiber optic,True,False,True,True,False,False,Month-to-month,No,Electronic check,87.6,2724.25,2.92
+4674-LRJIC,False,Female,0,No,No,1,Yes,False,Fiber optic,False,False,True,False,True,True,Month-to-month,No,Electronic check,94.4,94.4,3.15
+4680-KUTAJ,False,Female,1,No,No,11,Yes,True,DSL,True,False,False,False,False,False,Month-to-month,Yes,Electronic check,55.6,580.8,1.85
+4690-PKDQG,False,Female,1,Yes,No,42,Yes,True,Fiber optic,False,True,True,False,True,False,Month-to-month,Yes,Electronic check,95.55,3930.6,3.18
+4693-VWVBO,False,Female,0,No,No,3,Yes,False,No,False,False,False,False,False,False,Month-to-month,No,Electronic check,19.55,61.05,0.65
+4712-UYOOI,False,Female,0,Yes,Yes,20,Yes,False,No,False,False,False,False,False,False,Month-to-month,No,Electronic check,20.0,417.65,0.67
+4741-WWJQZ,False,Female,0,Yes,No,2,Yes,False,Fiber optic,True,False,False,True,False,False,Month-to-month,Yes,Electronic check,80.15,194.55,2.67
+4749-OJKQU,False,Female,0,No,No,4,Yes,True,Fiber optic,False,False,False,False,False,False,Month-to-month,Yes,Electronic check,75.65,302.35,2.52
+4760-THGOT,False,Female,0,Yes,No,43,Yes,True,Fiber optic,True,True,False,False,False,True,Month-to-month,Yes,Electronic check,94.1,4107.3,3.14
+4801-JZAZL,False,Female,0,Yes,Yes,11,No,False,DSL,True,False,False,False,False,False,Month-to-month,Yes,Electronic check,29.6,346.45,0.99
+4813-HQMGZ,False,Female,0,Yes,No,8,Yes,True,Fiber optic,False,False,False,True,False,True,Month-to-month,Yes,Electronic check,90.25,743.75,3.01
+4815-GBTCD,False,Female,0,Yes,No,4,No,False,DSL,False,False,False,False,False,False,Month-to-month,Yes,Electronic check,25.15,99.95,0.84
+4821-SJHJV,False,Female,0,Yes,Yes,32,Yes,True,Fiber optic,True,False,False,False,True,False,Month-to-month,No,Electronic check,89.6,2901.8,2.99
+4824-GUCBY,False,Female,1,No,No,22,Yes,False,Fiber optic,True,True,False,False,False,False,Month-to-month,No,Electronic check,81.7,1820.9,2.72
+4840-ORQXB,False,Female,1,No,No,56,Yes,True,Fiber optic,False,True,True,False,True,True,Month-to-month,No,Electronic check,104.75,5841.35,3.49
+4847-TAJYI,False,Female,1,No,No,6,Yes,False,Fiber optic,False,False,False,False,True,True,Month-to-month,Yes,Electronic check,89.35,567.8,2.98
+4854-CIDCF,False,Female,1,No,No,3,Yes,False,Fiber optic,False,False,True,False,False,False,Month-to-month,No,Electronic check,73.85,196.4,2.46
+4879-GZLFH,False,Female,0,Yes,Yes,42,Yes,False,Fiber optic,False,False,True,False,True,True,Month-to-month,Yes,Electronic check,92.15,3875.4,3.07
+4884-ZTHVF,False,Female,1,No,No,8,Yes,False,Fiber optic,False,True,False,False,True,False,Month-to-month,Yes,Electronic check,87.1,713.6,2.9
+4912-PIGUY,False,Female,0,No,No,1,Yes,True,Fiber optic,False,False,False,False,True,False,Month-to-month,Yes,Electronic check,84.6,84.6,2.82
+4918-FYJNT,False,Female,1,Yes,No,55,Yes,True,Fiber optic,False,True,True,True,False,False,Month-to-month,No,Electronic check,90.45,5044.8,3.02
+4931-TRZWN,False,Female,0,No,No,13,Yes,False,DSL,True,False,False,False,True,True,Month-to-month,Yes,Electronic check,71.95,923.85,2.4
+4988-RZJHG,False,Female,0,Yes,No,8,Yes,True,Fiber optic,False,False,False,False,False,True,Month-to-month,Yes,Electronic check,84.9,764.95,2.83
+4998-IKFSE,False,Female,0,No,No,30,Yes,True,Fiber optic,False,False,True,False,True,True,Month-to-month,No,Electronic check,100.45,3096.9,3.35
+5022-JNQEQ,False,Female,0,Yes,Yes,9,Yes,False,Fiber optic,False,False,False,True,False,False,Month-to-month,Yes,Electronic check,75.85,647.5,2.53
+5043-TRZWM,False,Female,0,No,No,1,Yes,False,Fiber optic,False,False,True,False,False,False,Month-to-month,No,Electronic check,75.55,75.55,2.52
+5046-NUHWD,False,Female,1,Yes,No,29,No,False,DSL,True,False,True,False,False,True,Month-to-month,Yes,Electronic check,45.0,1228.65,1.5
+5055-MGMGF,False,Female,0,Yes,No,65,Yes,True,Fiber optic,True,False,True,False,True,True,Month-to-month,Yes,Electronic check,105.05,6914.95,3.5
+5071-FBJFS,False,Female,0,Yes,Yes,4,Yes,False,DSL,True,False,False,False,False,False,Month-to-month,No,Electronic check,50.3,217.1,1.68
+5091-HFAZW,False,Female,0,No,No,2,Yes,False,Fiber optic,True,True,False,False,True,False,Month-to-month,Yes,Electronic check,91.15,168.5,3.04
+5122-CYFXA,False,Female,0,No,No,3,Yes,False,DSL,False,True,False,True,True,True,Month-to-month,Yes,Electronic check,75.3,244.1,2.51
+5153-RTHKF,False,Female,0,No,No,34,Yes,True,Fiber optic,False,False,False,False,True,False,Month-to-month,No,Electronic check,85.35,2896.6,2.84
+5215-LNLDJ,False,Female,0,Yes,Yes,7,No,False,DSL,False,False,False,False,False,False,Month-to-month,Yes,Electronic check,24.7,149.05,0.82
+5216-WASFJ,False,Female,1,Yes,No,31,Yes,True,Fiber optic,False,False,False,False,False,True,Month-to-month,Yes,Electronic check,84.85,2633.4,2.83
+5233-AOZUF,False,Female,0,Yes,No,29,Yes,True,Fiber optic,False,False,False,False,False,False,Month-to-month,Yes,Electronic check,74.95,2149.05,2.5
+5353-WILCI,False,Female,0,No,No,28,Yes,False,DSL,True,True,False,False,False,False,Month-to-month,No,Electronic check,56.05,1522.65,1.87
+5356-CSVSQ,False,Female,0,No,No,3,Yes,True,DSL,False,False,False,True,True,False,Month-to-month,No,Electronic check,64.6,174.2,2.15
+5371-VYLSX,False,Female,1,No,No,50,Yes,True,Fiber optic,True,True,False,False,False,False,Month-to-month,Yes,Electronic check,83.4,4113.7,2.78
+5392-AKEMH,False,Female,0,No,No,12,Yes,False,DSL,False,False,False,False,False,False,Month-to-month,Yes,Electronic check,45.05,523.1,1.5
+5423-BHIXO,False,Female,0,No,No,32,Yes,True,DSL,False,True,False,False,False,False,Month-to-month,Yes,Electronic check,54.2,1739.6,1.81
+5429-LWCMV,False,Female,0,No,No,12,Yes,True,Fiber optic,False,True,False,False,False,True,Month-to-month,Yes,Electronic check,89.15,1057.55,2.97
+5442-BHQNG,False,Female,0,No,No,2,Yes,False,Fiber optic,False,False,False,False,False,False,Month-to-month,No,Electronic check,70.35,139.25,2.34
+5445-GLVOT,False,Female,0,No,No,22,Yes,False,DSL,True,False,False,False,False,False,Month-to-month,Yes,Electronic check,49.8,1049.05,1.66
+5546-BYZSM,False,Female,0,No,No,41,Yes,False,No,False,False,False,False,False,False,Month-to-month,No,Electronic check,20.45,775.6,0.68
+5568-DMXZS,False,Female,0,No,No,8,Yes,False,DSL,False,True,False,True,True,False,Month-to-month,Yes,Electronic check,65.45,554.45,2.18
+5619-PTMIK,False,Female,0,Yes,No,46,Yes,True,DSL,True,False,False,False,False,False,Month-to-month,No,Electronic check,53.1,2459.8,1.77
+5624-RYAMH,False,Female,0,No,No,9,Yes,False,No,False,False,False,False,False,False,Month-to-month,Yes,Electronic check,19.5,178.85,0.65
+5630-IXDXV,False,Female,0,No,No,47,Yes,True,Fiber optic,False,True,True,False,True,True,Month-to-month,Yes,Electronic check,106.35,4849.1,3.54
+5647-FXOTP,False,Female,1,Yes,No,60,Yes,True,Fiber optic,False,True,True,False,True,True,Month-to-month,Yes,Electronic check,105.9,6401.25,3.53
+5651-YLPRD,False,Female,0,Yes,Yes,32,Yes,False,Fiber optic,False,True,False,False,True,False,Month-to-month,Yes,Electronic check,86.1,2723.75,2.87
+5666-CYCYZ,False,Female,0,No,No,24,Yes,True,Fiber optic,False,False,False,True,False,True,Month-to-month,Yes,Electronic check,89.55,2259.35,2.98
+5697-GOMBF,False,Female,1,Yes,Yes,28,No,False,DSL,False,False,False,False,True,False,Month-to-month,Yes,Electronic check,35.9,973.65,1.2
+5701-YVSVF,False,Female,1,Yes,No,11,Yes,False,Fiber optic,False,False,False,True,True,False,Month-to-month,Yes,Electronic check,82.9,880.05,2.76
+5712-AHQNN,False,Female,0,No,No,43,Yes,False,Fiber optic,False,True,True,False,True,False,Month-to-month,Yes,Electronic check,91.65,3954.1,3.06
+5780-INQIK,False,Female,0,No,No,8,Yes,False,DSL,False,False,False,True,False,False,Month-to-month,No,Electronic check,49.4,408.25,1.65
+5879-SESNB,False,Female,0,No,No,11,Yes,True,Fiber optic,False,False,False,False,False,False,Month-to-month,No,Electronic check,75.25,888.65,2.51
+5882-CMAZQ,False,Female,0,Yes,Yes,5,No,False,DSL,False,True,False,True,False,False,Month-to-month,No,Electronic check,34.25,163.55,1.14
+5917-HBSDW,False,Female,0,Yes,Yes,37,Yes,False,No,False,False,False,False,False,False,Month-to-month,No,Electronic check,19.35,683.75,0.64
+5934-RMPOV,False,Female,0,No,Yes,22,Yes,True,Fiber optic,False,False,False,False,False,True,Month-to-month,Yes,Electronic check,84.75,1816.75,2.82
+5935-FCCNB,False,Female,1,No,No,17,Yes,True,Fiber optic,False,False,False,False,True,True,Month-to-month,Yes,Electronic check,94.2,1608.15,3.14
+5949-HGVJL,False,Female,0,Yes,No,26,Yes,False,DSL,False,True,False,True,True,True,Month-to-month,Yes,Electronic check,73.05,1959.5,2.44
+5982-FPVQN,False,Female,0,Yes,Yes,37,Yes,True,Fiber optic,False,True,True,False,False,True,Month-to-month,Yes,Electronic check,95.15,3532.85,3.17
+5989-PGKJB,False,Female,0,No,No,16,Yes,False,Fiber optic,False,True,False,False,False,True,Month-to-month,Yes,Electronic check,86.25,1340.1,2.88
+6022-MXOMF,False,Female,1,No,No,1,Yes,True,Fiber optic,False,False,False,False,False,False,Month-to-month,Yes,Electronic check,74.2,74.2,2.47
+6030-REHUX,False,Female,1,Yes,No,28,Yes,True,Fiber optic,False,True,True,True,True,True,Month-to-month,Yes,Electronic check,110.85,3204.4,3.7
+6077-BDPXA,False,Female,0,No,No,3,Yes,False,Fiber optic,False,False,False,False,False,False,Month-to-month,Yes,Electronic check,70.15,194.2,2.34
+6088-BXMRG,False,Female,0,Yes,Yes,32,Yes,True,Fiber optic,False,True,False,False,True,True,Month-to-month,Yes,Electronic check,98.85,3089.6,3.3
+6103-BOCOU,False,Female,0,No,No,26,Yes,True,Fiber optic,False,False,True,False,False,False,Month-to-month,Yes,Electronic check,80.7,2193.0,2.69
+6116-RFVHN,False,Female,0,Yes,No,34,Yes,True,Fiber optic,False,False,True,False,True,True,Month-to-month,Yes,Electronic check,100.45,3414.65,3.35
+6133-OZILE,False,Female,0,No,No,18,No,False,DSL,False,False,True,True,False,False,Month-to-month,Yes,Electronic check,35.2,607.3,1.17
+6135-OZQVA,False,Female,0,No,No,7,Yes,True,DSL,True,False,False,False,False,False,Month-to-month,Yes,Electronic check,53.65,404.35,1.79
+6137-MFAJN,False,Female,0,No,No,48,No,False,DSL,True,True,False,False,True,False,Month-to-month,Yes,Electronic check,44.8,2104.55,1.49
+6198-RTPMF,False,Female,0,Yes,No,17,Yes,True,Fiber optic,False,False,False,False,True,True,Month-to-month,No,Electronic check,92.6,1579.7,3.09
+6198-ZFIOJ,False,Female,0,No,No,5,Yes,True,Fiber optic,False,False,False,False,False,False,Month-to-month,No,Electronic check,75.6,402.5,2.52
+6211-WHMYA,False,Female,1,No,No,64,No,False,DSL,False,True,False,True,True,False,Month-to-month,Yes,Electronic check,43.85,2751.0,1.46
+6212-ATMLK,False,Female,0,No,No,50,Yes,True,Fiber optic,False,False,False,False,True,True,Month-to-month,Yes,Electronic check,95.7,4729.75,3.19
+6242-MBHPK,False,Female,1,Yes,No,23,Yes,False,Fiber optic,True,False,False,False,True,True,Month-to-month,Yes,Electronic check,95.1,2326.05,3.17
+6243-OZGFH,False,Female,0,No,No,23,No,False,DSL,False,False,False,False,True,True,Month-to-month,Yes,Electronic check,44.95,996.85,1.5
+6267-DCFFZ,False,Female,1,Yes,No,30,Yes,True,Fiber optic,False,True,False,False,True,False,Month-to-month,Yes,Electronic check,90.05,2627.2,3.0
+6272-HWGNQ,False,Female,0,No,No,1,Yes,True,Fiber optic,False,False,False,False,False,True,Month-to-month,Yes,Electronic check,85.0,85.0,2.83
+6300-BWMJX,False,Female,0,Yes,No,59,Yes,True,Fiber optic,False,False,True,True,True,False,Month-to-month,No,Electronic check,93.35,5386.5,3.11
+6339-DKLMK,False,Female,0,No,No,13,No,False,DSL,False,True,False,False,False,False,Month-to-month,Yes,Electronic check,31.65,389.95,1.06
+6357-JJPQT,False,Female,0,No,No,3,Yes,False,Fiber optic,False,False,False,False,True,False,Month-to-month,Yes,Electronic check,80.5,232.35,2.68
+6377-WHAOX,False,Female,0,Yes,No,60,Yes,True,Fiber optic,False,True,True,False,True,True,Month-to-month,Yes,Electronic check,106.15,6411.25,3.54
+6435-SRWBJ,False,Female,0,No,No,5,Yes,True,Fiber optic,False,False,True,True,False,False,Month-to-month,Yes,Electronic check,82.75,417.75,2.76
+6458-CYIDZ,False,Female,1,No,No,5,Yes,False,Fiber optic,True,True,False,False,False,False,Month-to-month,No,Electronic check,80.7,374.8,2.69
+6469-QJKZW,False,Female,0,Yes,No,4,Yes,False,No,False,False,False,False,False,False,Month-to-month,No,Electronic check,20.15,91.4,0.67
+6475-VHUIZ,False,Female,0,Yes,No,23,Yes,False,DSL,False,False,True,True,False,False,Month-to-month,No,Electronic check,54.25,1221.55,1.81
+6507-MIKMI,False,Female,0,No,No,41,Yes,True,Fiber optic,False,True,True,False,True,True,Month-to-month,Yes,Electronic check,106.3,4443.45,3.54
+6519-CFDBX,False,Female,0,No,No,2,Yes,False,DSL,False,False,False,False,False,False,Month-to-month,Yes,Electronic check,45.4,80.95,1.51
+6537-QLGEX,False,Female,0,No,No,16,No,False,DSL,True,False,False,False,True,False,Month-to-month,Yes,Electronic check,38.9,664.4,1.3
+6583-KQJLK,False,Female,1,Yes,No,15,Yes,False,Fiber optic,False,True,False,False,True,True,Month-to-month,Yes,Electronic check,94.65,1285.05,3.16
+6599-SFQVE,False,Female,0,No,No,6,Yes,False,DSL,False,False,False,False,False,True,Month-to-month,Yes,Electronic check,55.0,340.4,1.83
+6625-UTXEW,False,Female,0,Yes,No,12,Yes,False,DSL,False,True,False,False,False,False,Month-to-month,Yes,Electronic check,51.25,612.1,1.71
+6630-UJZMY,False,Female,1,Yes,No,4,Yes,True,Fiber optic,False,False,False,False,True,False,Month-to-month,Yes,Electronic check,83.25,308.05,2.78
+6637-KYRCV,False,Female,0,Yes,Yes,5,No,False,DSL,False,True,False,False,False,False,Month-to-month,Yes,Electronic check,30.5,167.2,1.02
+6646-JPPHA,False,Female,1,No,No,14,Yes,False,Fiber optic,True,True,False,False,False,False,Month-to-month,No,Electronic check,78.85,1043.8,2.63
+6652-YFFJO,False,Female,0,No,No,11,Yes,False,DSL,False,False,False,False,True,True,Month-to-month,Yes,Electronic check,64.9,716.1,2.16
+6705-LXORM,False,Female,1,Yes,No,5,Yes,False,Fiber optic,False,False,False,False,False,False,Month-to-month,No,Electronic check,70.05,302.6,2.34
+6736-DRVEW,False,Female,1,No,No,33,Yes,True,Fiber optic,False,True,True,True,True,True,Month-to-month,Yes,Electronic check,110.45,3655.45,3.68
+6778-YSNIH,False,Female,0,No,No,2,Yes,False,DSL,False,True,False,False,True,False,Month-to-month,Yes,Electronic check,59.0,114.15,1.97
+6786-OBWQR,False,Female,0,Yes,Yes,5,Yes,False,Fiber optic,False,False,False,False,True,False,Month-to-month,Yes,Electronic check,80.85,356.1,2.7
+6789-HJBWG,False,Female,0,No,No,12,Yes,False,DSL,False,True,False,False,False,False,Month-to-month,Yes,Electronic check,49.4,611.65,1.65
+6818-DJXAA,False,Female,0,No,Yes,10,Yes,False,Fiber optic,False,False,True,True,True,False,Month-to-month,Yes,Electronic check,91.1,964.35,3.04
+6917-YACBP,False,Female,1,No,No,59,Yes,True,Fiber optic,True,True,True,False,False,False,Month-to-month,Yes,Electronic check,89.75,5496.9,2.99
+6918-UMQCG,False,Female,0,No,No,5,Yes,False,Fiber optic,False,False,False,False,True,False,Month-to-month,No,Electronic check,80.2,384.25,2.67
+6923-JHPMP,False,Female,0,No,No,2,Yes,False,Fiber optic,True,False,True,False,False,False,Month-to-month,Yes,Electronic check,80.45,137.1,2.68
+6968-GMKPR,False,Female,0,No,No,55,Yes,False,Fiber optic,False,True,True,False,False,False,Month-to-month,Yes,Electronic check,81.55,4509.5,2.72
+6969-MVBAI,False,Female,1,No,No,9,Yes,True,Fiber optic,False,False,True,False,True,False,Month-to-month,Yes,Electronic check,90.1,816.8,3.0
+7078-NVFAM,False,Female,0,Yes,Yes,32,No,False,DSL,True,True,False,False,False,False,Month-to-month,Yes,Electronic check,35.15,1051.05,1.17
+7107-UBYKY,False,Female,0,Yes,Yes,35,Yes,True,No,False,False,False,False,False,False,Month-to-month,Yes,Electronic check,25.75,882.55,0.86
+7126-RBHSD,False,Female,0,Yes,No,17,Yes,True,Fiber optic,True,False,False,False,False,False,Month-to-month,No,Electronic check,78.9,1348.95,2.63
+7129-ACFOG,False,Female,0,No,No,5,Yes,True,DSL,True,False,False,False,False,False,Month-to-month,Yes,Electronic check,53.8,283.95,1.79
+7145-FEJWU,False,Female,0,No,Yes,12,Yes,True,Fiber optic,False,True,True,False,True,True,Month-to-month,Yes,Electronic check,105.3,1275.65,3.51
+7245-NIIWQ,False,Female,0,No,No,3,Yes,False,Fiber optic,False,False,False,False,False,False,Month-to-month,Yes,Electronic check,69.85,199.85,2.33
+7246-ZGQDF,False,Female,0,No,Yes,1,Yes,False,DSL,True,False,False,True,False,False,Month-to-month,No,Electronic check,54.5,54.5,1.82
+7277-OZCGZ,False,Female,0,No,No,22,Yes,False,Fiber optic,True,False,False,True,False,True,Month-to-month,Yes,Electronic check,89.05,1886.25,2.97
+7296-PIXQY,False,Female,0,Yes,Yes,14,Yes,False,Fiber optic,False,False,False,False,False,False,Month-to-month,No,Electronic check,70.2,1046.5,2.34
+7305-PAPOZ,False,Female,1,Yes,No,31,Yes,True,Fiber optic,False,False,False,False,False,True,Month-to-month,Yes,Electronic check,84.85,2633.4,2.83
+7321-VGNKU,False,Female,0,Yes,No,2,Yes,False,Fiber optic,False,False,False,False,False,False,Month-to-month,Yes,Electronic check,70.35,120.25,2.34
+7339-POGZN,False,Female,0,No,No,4,Yes,True,DSL,False,False,False,False,False,False,Month-to-month,No,Electronic check,50.7,214.55,1.69
+7346-MEDWM,False,Female,0,No,No,59,Yes,True,Fiber optic,False,True,True,False,False,False,Month-to-month,Yes,Electronic check,83.25,4949.1,2.78
+7351-KYHQH,False,Female,1,No,No,7,Yes,False,DSL,False,True,True,False,True,False,Month-to-month,Yes,Electronic check,64.95,493.65,2.16
+7363-QTBIW,False,Female,0,Yes,No,9,Yes,False,Fiber optic,False,False,False,False,False,True,Month-to-month,Yes,Electronic check,79.75,769.1,2.66
+7394-LWLYN,False,Female,0,No,No,2,Yes,False,Fiber optic,False,False,False,False,False,False,Month-to-month,Yes,Electronic check,70.15,123.8,2.34
+7398-SKNQZ,False,Female,0,Yes,No,3,Yes,True,Fiber optic,False,False,False,False,True,True,Month-to-month,No,Electronic check,94.9,273.2,3.16
+7401-RUBNK,False,Female,0,Yes,No,18,Yes,False,Fiber optic,True,False,False,False,False,False,Month-to-month,No,Electronic check,74.8,1438.05,2.49
+7404-JLKQG,False,Female,0,No,No,3,Yes,False,DSL,False,False,True,False,True,False,Month-to-month,No,Electronic check,57.55,161.45,1.92
+7460-ITWWP,False,Female,1,Yes,No,45,Yes,False,Fiber optic,False,False,True,False,False,True,Month-to-month,Yes,Electronic check,86.1,3861.45,2.87
+7517-LDMPS,False,Female,0,No,No,12,Yes,False,Fiber optic,False,True,False,False,False,True,Month-to-month,Yes,Electronic check,84.6,1017.35,2.82
+7576-JMYWV,False,Female,1,Yes,Yes,46,Yes,True,Fiber optic,True,True,False,True,True,True,Month-to-month,Yes,Electronic check,110.2,4972.1,3.67
+7590-VHVEG,False,Female,0,Yes,No,1,No,False,DSL,False,True,False,False,False,False,Month-to-month,Yes,Electronic check,29.85,29.85,1.0
+7634-WSWDB,False,Female,0,No,Yes,8,No,False,DSL,True,False,False,False,False,True,Month-to-month,Yes,Electronic check,38.5,330.8,1.28
+7668-XCFYV,False,Female,1,Yes,No,17,Yes,True,Fiber optic,False,False,False,False,True,True,Month-to-month,Yes,Electronic check,92.55,1614.7,3.08
+7709-FQREH,False,Female,0,Yes,No,18,Yes,True,Fiber optic,False,False,False,True,True,False,Month-to-month,Yes,Electronic check,88.85,1594.75,2.96
+7733-UDMTP,False,Female,1,No,No,57,No,False,DSL,False,True,True,False,True,True,Month-to-month,Yes,Electronic check,55.0,3094.05,1.83
+7748-UMTRK,False,Female,1,No,Yes,30,Yes,True,Fiber optic,False,False,False,True,True,True,Month-to-month,Yes,Electronic check,101.3,2974.5,3.38
+7798-JVXYM,False,Female,0,No,No,14,Yes,False,DSL,False,False,False,True,True,True,Month-to-month,Yes,Electronic check,69.65,921.4,2.32
+7801-KICAO,False,Female,0,No,No,18,Yes,True,Fiber optic,False,False,False,False,False,False,Month-to-month,Yes,Electronic check,74.15,1345.75,2.47
+7808-NBWYW,False,Female,1,Yes,No,3,Yes,False,Fiber optic,False,False,False,False,True,False,Month-to-month,Yes,Electronic check,80.4,224.05,2.68
+7839-NUIAA,False,Female,0,Yes,Yes,61,Yes,True,DSL,True,True,False,False,False,False,Month-to-month,No,Electronic check,59.8,3641.5,1.99
+7853-OETYL,False,Female,0,Yes,No,4,No,False,DSL,True,False,False,False,False,False,Month-to-month,Yes,Electronic check,29.05,129.6,0.97
+7855-DIWPO,False,Female,0,No,No,21,Yes,False,Fiber optic,False,False,False,False,False,False,Month-to-month,Yes,Electronic check,68.65,1493.2,2.29
+7858-GTZSP,False,Female,0,No,No,12,Yes,True,Fiber optic,False,False,False,False,False,True,Month-to-month,Yes,Electronic check,86.55,1066.9,2.88
+7872-RDDLZ,False,Female,1,No,No,67,Yes,True,DSL,False,True,False,False,False,False,Month-to-month,No,Electronic check,54.9,3725.5,1.83
+7892-QVYKW,False,Female,0,Yes,Yes,23,Yes,True,Fiber optic,False,False,False,False,False,True,Month-to-month,No,Electronic check,85.6,1868.4,2.85
+7895-VONWT,False,Female,0,No,No,25,No,False,DSL,False,False,True,False,True,True,Month-to-month,Yes,Electronic check,48.25,1293.8,1.61
+7905-TVXTA,False,Female,0,No,No,5,Yes,False,DSL,True,False,False,True,True,False,Month-to-month,Yes,Electronic check,64.35,352.65,2.14
+7924-GJZFI,False,Female,1,Yes,No,25,Yes,False,Fiber optic,False,False,False,False,False,False,Month-to-month,Yes,Electronic check,69.3,1813.1,2.31
+7978-DKUQH,False,Female,0,Yes,No,25,Yes,False,Fiber optic,False,False,True,False,False,False,Month-to-month,Yes,Electronic check,74.6,1797.75,2.49
+8003-EWNDZ,False,Female,0,No,No,10,Yes,False,No,False,False,False,False,False,False,Month-to-month,Yes,Electronic check,21.2,222.65,0.71
+8012-SOUDQ,False,Female,1,No,No,43,Yes,True,Fiber optic,False,True,False,False,True,False,Month-to-month,Yes,Electronic check,90.25,3838.75,3.01
+8035-PWSEV,False,Female,0,No,No,6,Yes,False,Fiber optic,False,False,True,True,False,True,Month-to-month,Yes,Electronic check,89.25,487.05,2.98
+8096-LOIST,False,Female,0,No,No,19,Yes,False,DSL,False,False,False,False,False,True,Month-to-month,Yes,Electronic check,56.2,1093.4,1.87
+8100-HZZLJ,False,Female,0,No,Yes,43,Yes,False,DSL,True,True,False,False,False,True,Month-to-month,Yes,Electronic check,63.95,2737.05,2.13
+8104-OSKWT,False,Female,0,No,No,12,Yes,True,Fiber optic,True,False,False,False,False,False,Month-to-month,Yes,Electronic check,79.8,1001.2,2.66
+8108-UXRQN,False,Female,0,Yes,Yes,11,No,False,DSL,True,False,False,False,True,True,Month-to-month,No,Electronic check,50.55,565.35,1.68
+8160-HOWOX,False,Female,0,No,No,7,Yes,False,DSL,False,False,False,False,True,True,Month-to-month,Yes,Electronic check,66.85,458.1,2.23
+8189-HBVRW,False,Female,0,No,No,53,Yes,True,Fiber optic,True,True,True,False,False,False,Month-to-month,No,Electronic check,90.8,4921.2,3.03
+8189-XRIKE,False,Female,1,No,No,32,Yes,False,Fiber optic,False,False,False,False,True,True,Month-to-month,No,Electronic check,90.95,2897.95,3.03
+8229-MYEJZ,False,Female,0,No,No,10,Yes,False,DSL,False,True,False,False,False,False,Month-to-month,No,Electronic check,51.2,498.25,1.71
+8242-SOQUO,False,Female,1,No,No,5,Yes,False,Fiber optic,False,True,False,False,True,False,Month-to-month,Yes,Electronic check,84.7,392.5,2.82
+8313-NDOIA,False,Female,0,No,No,24,Yes,True,Fiber optic,False,True,True,False,True,True,Month-to-month,Yes,Electronic check,104.15,2494.65,3.47
+8325-QRPZR,False,Female,0,No,No,7,Yes,False,Fiber optic,False,False,True,False,False,False,Month-to-month,Yes,Electronic check,75.15,525.0,2.51
+8356-WUAOJ,False,Female,0,Yes,No,1,Yes,False,DSL,False,False,False,False,False,False,Month-to-month,Yes,Electronic check,45.0,45.0,1.5
+8384-FZBJK,False,Female,0,Yes,Yes,57,Yes,True,Fiber optic,False,True,False,False,True,True,Month-to-month,Yes,Electronic check,100.6,5611.7,3.35
+8400-WZICQ,False,Female,0,Yes,Yes,55,Yes,False,DSL,True,True,False,False,False,False,Month-to-month,No,Electronic check,55.7,3131.8,1.86
+8404-VLQFB,False,Female,0,Yes,Yes,15,Yes,True,No,False,False,False,False,False,False,Month-to-month,Yes,Electronic check,25.25,394.85,0.84
+8450-UYIBU,False,Female,1,No,No,35,No,False,DSL,False,False,True,False,True,False,Month-to-month,Yes,Electronic check,39.85,1434.6,1.33
+8468-EHYJA,False,Female,0,Yes,No,57,Yes,True,Fiber optic,True,False,False,False,True,True,Month-to-month,Yes,Electronic check,99.65,5497.05,3.32
+8486-AYEQH,False,Female,0,No,No,31,Yes,True,Fiber optic,False,False,False,False,False,False,Month-to-month,Yes,Electronic check,76.05,2227.8,2.53
+8495-PRWFH,False,Female,1,No,No,42,Yes,True,DSL,False,False,True,False,False,False,Month-to-month,No,Electronic check,55.65,2421.75,1.86
+8541-QVFKM,False,Female,0,No,No,8,Yes,True,Fiber optic,False,False,False,False,False,False,Month-to-month,Yes,Electronic check,73.5,632.2,2.45
+8552-OBVRU,False,Female,1,Yes,Yes,48,Yes,False,Fiber optic,True,False,True,True,True,True,Month-to-month,Yes,Electronic check,104.5,5068.05,3.48
+8584-KMVXD,False,Female,0,No,No,8,Yes,False,Fiber optic,False,True,False,False,False,False,Month-to-month,No,Electronic check,75.6,535.55,2.52
+8620-RJPZN,False,Female,0,No,No,1,Yes,False,No,False,False,False,False,False,False,Month-to-month,No,Electronic check,20.7,20.7,0.69
+8622-ZLFKO,False,Female,0,Yes,No,6,Yes,True,Fiber optic,False,True,False,False,False,True,Month-to-month,Yes,Electronic check,90.75,512.25,3.02
+8623-ULFNQ,False,Female,1,No,No,26,Yes,True,DSL,False,False,False,True,False,True,Month-to-month,Yes,Electronic check,66.05,1652.4,2.2
+8630-FJLIB,False,Female,0,No,No,18,Yes,False,Fiber optic,False,False,False,False,False,False,Month-to-month,Yes,Electronic check,69.8,1221.65,2.33
+8631-WUXGY,False,Female,0,No,Yes,46,Yes,False,Fiber optic,False,True,True,False,True,True,Month-to-month,Yes,Electronic check,99.8,4391.25,3.33
+8648-PFRMP,False,Female,1,No,No,14,No,False,DSL,False,False,False,False,True,True,Month-to-month,Yes,Electronic check,46.35,672.7,1.55
+8671-KKKOS,False,Female,0,Yes,No,46,No,False,DSL,True,True,False,False,True,False,Month-to-month,No,Electronic check,45.55,2062.15,1.52
+8709-KRDVL,False,Female,0,No,No,33,Yes,True,Fiber optic,False,True,False,False,True,True,Month-to-month,Yes,Electronic check,100.0,3320.6,3.33
+8734-DKSTZ,False,Female,0,Yes,Yes,10,Yes,True,Fiber optic,False,False,False,False,False,True,Month-to-month,No,Electronic check,85.95,858.6,2.86
+8739-XNIKG,False,Female,0,No,No,5,Yes,True,Fiber optic,False,False,False,False,True,False,Month-to-month,Yes,Electronic check,84.0,424.75,2.8
+8754-GZCEH,False,Female,0,Yes,No,25,Yes,False,Fiber optic,False,False,False,True,True,True,Month-to-month,Yes,Electronic check,95.15,2395.7,3.17
+8756-RDDLT,False,Female,0,No,No,68,No,False,DSL,False,True,False,True,False,True,Month-to-month,No,Electronic check,44.95,3085.35,1.5
+8778-LMWTJ,False,Female,0,No,No,9,Yes,False,Fiber optic,True,False,False,False,False,False,Month-to-month,Yes,Electronic check,74.85,708.2,2.49
+8785-CJSHH,False,Female,0,Yes,No,60,Yes,True,Fiber optic,False,True,False,False,True,True,Month-to-month,Yes,Electronic check,99.8,5985.75,3.33
+8800-JOOCF,False,Female,0,No,Yes,12,Yes,True,Fiber optic,False,False,False,False,True,False,Month-to-month,Yes,Electronic check,84.05,966.55,2.8
+8800-ZKRFW,False,Female,0,Yes,Yes,30,Yes,True,Fiber optic,False,True,True,True,True,True,Month-to-month,Yes,Electronic check,107.5,3242.5,3.58
+8807-ARQET,False,Female,0,No,No,41,No,False,DSL,False,True,False,False,False,True,Month-to-month,Yes,Electronic check,40.35,1677.85,1.34
+8818-DOPVL,False,Female,1,No,No,46,Yes,True,Fiber optic,False,True,True,False,True,True,Month-to-month,Yes,Electronic check,104.45,4863.85,3.48
+8878-RYUKI,False,Female,0,No,No,52,Yes,False,DSL,False,False,True,False,False,True,Month-to-month,Yes,Electronic check,59.45,3043.7,1.98
+8903-WMRNW,False,Female,0,Yes,No,15,Yes,False,Fiber optic,True,False,True,False,True,True,Month-to-month,No,Electronic check,101.75,1669.4,3.39
+8933-FSHGW,False,Female,1,Yes,No,25,Yes,False,Fiber optic,False,False,False,False,False,False,Month-to-month,Yes,Electronic check,69.3,1813.1,2.31
+8963-MQVYN,False,Female,0,No,Yes,22,Yes,False,No,False,False,False,False,False,False,Month-to-month,Yes,Electronic check,20.55,469.85,0.68
+8967-SZQAS,False,Female,0,No,No,14,Yes,False,DSL,False,True,False,False,False,False,Month-to-month,No,Electronic check,50.45,765.45,1.68
+8980-WQFWL,False,Female,0,No,No,35,Yes,False,DSL,False,False,True,False,False,True,Month-to-month,Yes,Electronic check,62.1,2096.1,2.07
+8990-ZXLSU,False,Female,0,No,No,9,Yes,False,Fiber optic,False,False,False,False,False,False,Month-to-month,No,Electronic check,69.05,651.5,2.3
+8992-CEUEN,False,Female,0,No,No,1,Yes,False,No,False,False,False,False,False,False,Month-to-month,No,Electronic check,18.85,18.85,0.63
+8992-VONJD,False,Female,0,No,Yes,13,Yes,False,DSL,True,True,False,False,False,False,Month-to-month,Yes,Electronic check,56.0,764.55,1.87
+9026-LHEVG,False,Female,0,No,No,9,No,False,DSL,False,True,False,False,False,True,Month-to-month,No,Electronic check,40.75,359.4,1.36
+9058-HRZSV,False,Female,1,Yes,No,65,Yes,False,Fiber optic,True,True,True,False,False,True,Month-to-month,No,Electronic check,94.4,6126.15,3.15
+9058-MJLZC,False,Female,0,No,No,24,Yes,False,Fiber optic,True,False,False,False,True,True,Month-to-month,Yes,Electronic check,94.6,2283.15,3.15
+9078-GDRPJ,False,Female,0,Yes,Yes,63,Yes,True,Fiber optic,True,True,True,False,True,False,Month-to-month,Yes,Electronic check,100.55,6215.35,3.35
+9093-FPDLG,False,Female,0,No,No,11,Yes,False,Fiber optic,False,True,True,True,False,True,Month-to-month,Yes,Electronic check,94.2,999.9,3.14
+9094-AZPHK,False,Female,0,No,No,15,Yes,True,Fiber optic,False,True,False,False,True,True,Month-to-month,Yes,Electronic check,100.15,1415.0,3.34
+9099-FTUHS,False,Female,0,No,No,23,Yes,True,DSL,True,False,False,False,False,False,Month-to-month,No,Electronic check,54.4,1249.25,1.81
+9112-WSNPU,False,Female,1,No,No,35,Yes,False,Fiber optic,False,False,False,False,False,False,Month-to-month,No,Electronic check,70.55,2419.0,2.35
+9137-UIYPG,False,Female,0,Yes,Yes,35,Yes,False,Fiber optic,True,False,True,True,True,True,Month-to-month,Yes,Electronic check,106.9,3756.45,3.56
+9143-CANJF,False,Female,0,Yes,Yes,24,Yes,False,DSL,True,False,False,True,False,False,Month-to-month,No,Electronic check,55.15,1319.85,1.84
+9163-GHAYE,False,Female,0,No,No,15,Yes,False,DSL,False,True,False,False,False,False,Month-to-month,No,Electronic check,48.85,736.8,1.63
+9168-INPSZ,False,Female,1,Yes,No,44,Yes,True,Fiber optic,False,False,True,True,True,True,Month-to-month,No,Electronic check,104.15,4495.65,3.47
+9208-OLGAQ,False,Female,1,No,No,18,Yes,False,Fiber optic,False,False,True,False,False,True,Month-to-month,Yes,Electronic check,84.95,1443.65,2.83
+9218-TUMIQ,False,Female,0,Yes,Yes,62,Yes,False,Fiber optic,False,True,True,False,True,True,Month-to-month,Yes,Electronic check,100.15,6283.3,3.34
+9278-VZKCD,False,Female,1,Yes,No,52,Yes,True,Fiber optic,True,True,True,False,True,True,Month-to-month,Yes,Electronic check,109.1,5647.95,3.64
+9281-PKKZE,False,Female,0,Yes,No,46,No,False,DSL,False,False,False,False,True,True,Month-to-month,Yes,Electronic check,43.95,2007.85,1.46
+9290-SHCMB,False,Female,1,No,No,13,Yes,False,Fiber optic,False,False,True,False,True,True,Month-to-month,Yes,Electronic check,96.85,1235.55,3.23
+9314-IJWSQ,False,Female,0,Yes,Yes,14,Yes,True,Fiber optic,False,False,False,False,True,False,Month-to-month,Yes,Electronic check,84.8,1203.9,2.83
+9332-GYWLO,False,Female,0,Yes,Yes,6,Yes,False,DSL,False,False,False,False,True,False,Month-to-month,No,Electronic check,54.85,355.1,1.83
+9355-NPPFS,False,Female,1,No,No,26,Yes,False,Fiber optic,False,False,False,False,False,True,Month-to-month,Yes,Electronic check,78.8,2006.1,2.63
+9371-CLMGW,False,Female,0,No,No,6,Yes,False,Fiber optic,False,False,False,False,True,True,Month-to-month,No,Electronic check,89.3,577.6,2.98
+9374-YOLBJ,False,Female,0,Yes,Yes,1,Yes,False,No,False,False,False,False,False,False,Month-to-month,No,Electronic check,19.25,19.25,0.64
+9402-ORRAH,False,Female,1,No,No,15,Yes,False,Fiber optic,False,False,False,False,True,True,Month-to-month,Yes,Electronic check,91.5,1400.3,3.05
+9408-HRXRK,False,Female,0,Yes,Yes,45,Yes,True,Fiber optic,True,True,False,False,True,True,Month-to-month,Yes,Electronic check,105.15,4730.9,3.51
+9415-TPKRV,False,Female,0,Yes,Yes,8,Yes,True,DSL,False,True,False,False,False,False,Month-to-month,No,Electronic check,55.75,446.8,1.86
+9508-ILZDG,False,Female,1,No,No,34,Yes,True,Fiber optic,False,True,False,True,True,False,Month-to-month,Yes,Electronic check,96.35,3190.25,3.21
+9522-BNTHX,False,Female,1,No,No,34,No,False,DSL,False,True,True,False,True,True,Month-to-month,Yes,Electronic check,56.25,1765.95,1.88
+9555-SAHUZ,False,Female,0,Yes,Yes,38,Yes,False,DSL,True,True,False,False,False,False,Month-to-month,No,Electronic check,54.5,2076.05,1.82
+9588-OZDMQ,False,Female,0,Yes,No,2,Yes,False,DSL,False,False,False,False,False,False,Month-to-month,Yes,Electronic check,45.0,89.75,1.5
+9605-WGJVW,False,Female,1,No,No,1,Yes,False,Fiber optic,False,False,False,False,False,False,Month-to-month,Yes,Electronic check,70.2,70.2,2.34
+9633-XQABV,False,Female,0,No,No,3,Yes,False,Fiber optic,False,False,False,False,False,False,Month-to-month,Yes,Electronic check,70.25,229.7,2.34
+9643-AVVWI,False,Female,0,Yes,Yes,3,Yes,False,Fiber optic,False,True,False,True,False,False,Month-to-month,Yes,Electronic check,80.0,241.3,2.67
+9659-QEQSY,False,Female,0,No,No,45,Yes,True,Fiber optic,True,True,True,True,True,True,Month-to-month,Yes,Electronic check,115.65,5125.5,3.86
+9699-UBQFS,False,Female,1,Yes,No,43,Yes,True,Fiber optic,True,True,False,False,True,False,Month-to-month,Yes,Electronic check,94.5,4156.8,3.15
+9700-ISPUP,False,Female,0,Yes,Yes,10,Yes,False,DSL,False,True,False,True,False,True,Month-to-month,Yes,Electronic check,65.5,616.9,2.18
+9732-EQMWY,False,Female,0,Yes,No,49,Yes,False,Fiber optic,False,True,True,False,True,True,Month-to-month,No,Electronic check,99.4,5025.0,3.31
+9752-ZNQUT,False,Female,0,No,No,1,Yes,False,DSL,False,True,False,False,False,False,Month-to-month,Yes,Electronic check,48.6,48.6,1.62
+9779-DPNEJ,False,Female,0,Yes,Yes,22,Yes,False,Fiber optic,False,False,False,False,False,True,Month-to-month,Yes,Electronic check,80.15,1790.65,2.67
+9799-CAYJJ,False,Female,1,Yes,No,2,Yes,False,Fiber optic,False,False,False,False,False,False,Month-to-month,Yes,Electronic check,69.3,153.8,2.31
+9822-OAOVB,False,Female,0,No,No,1,Yes,False,DSL,False,False,False,False,False,True,Month-to-month,Yes,Electronic check,55.45,55.45,1.85
+9822-WMWVG,False,Female,0,No,No,41,Yes,True,Fiber optic,True,True,True,True,True,False,Month-to-month,Yes,Electronic check,106.5,4282.4,3.55
+9840-EFJQB,False,Female,0,No,No,1,Yes,False,Fiber optic,False,True,False,False,False,False,Month-to-month,No,Electronic check,74.35,74.35,2.48
+9853-JFZDU,False,Female,0,Yes,No,35,Yes,False,DSL,False,True,False,True,False,False,Month-to-month,No,Electronic check,56.85,1861.1,1.9
+9881-VCZEP,False,Female,0,Yes,No,25,Yes,True,DSL,False,True,False,False,False,False,Month-to-month,No,Electronic check,54.1,1373.0,1.8
+9919-KNPOO,False,Female,0,Yes,No,21,Yes,True,Fiber optic,False,False,False,False,True,True,Month-to-month,Yes,Electronic check,94.3,1948.35,3.14

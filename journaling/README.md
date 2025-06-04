@@ -18,12 +18,10 @@ i can get the json file on the link: https://github.com/ingridcristh/challenge2-
 ###### a imagem representa a estrutura detalhada dos dados, baseada no primeiro registro do arquivo
 
 # III
-#### Graphical tree image of jason file, deepseek R1 Ai
+#### Graphical tree image of json file, deepseek R1 Ai
 
 ###### with this prompt : I want a graphical image to use in a presentation.
 ###### Show me a graphical tree of the structure of this json file, like the site jsoncrack.com can do.
-
-![Graphical tree image of json file](../images/003-DeepSeekR1-tree.jpg)
 
 ```text
 JSON STRUCTURE TREE: TelecomX Customer Data
@@ -87,10 +85,8 @@ JSON STRUCTURE TREE: TelecomX Customer Data
   └── ... (repeated for 704 customers)
   ```
 
-  
-
 # IV
-#### Graphical tree image of jason file, https://jsonCrack.com, first 3 records
+#### Graphical tree image of json file, https://jsonCrack.com, first 3 records
 
 ###### i have to break the original .json file in the first 3 records.
 
