@@ -26,7 +26,22 @@ Análise de dados de clientes de uma empresa de telecomunicações
 </div>
 <hr>
 <h2> 📊 Análise de dados</h2>
-#.
-##### desafio2alura8oracle.ipynb - [![Files badge](https://img.shields.io/badge/desafio2alura8oracle.ipynb-%23000000?logo=Files&logoColor=yellow&labelColor=blue)](https://github.com/Acheroniano/2025-06-03-G8-Oracle-Alura-Challenge2/tree/main/notebook/desafio2alura8oracle.ipynb)
 
-- Arquivo com o ETL dos TelecomX_Data.json
+### Arquivos nesse repositório
+
+##### desafio2alura8oracle.ipynb - [![Files badge](https://img.shields.io/badge/desafio2alura8oracle.ipynb-%23000000?logo=Files&logoColor=yellow&labelColor=blue)](https://github.com/Acheroniano/2025-06-03-G8-Oracle-Alura-Challenge2/blob/main/notebook/desafio2alurag8oracle.ipynb)
+- notebook para usar no Google Colab e fazer a análise de dados.
+
+##### TelecomX_Data_normalizado.csv - [![Files badge](https://img.shields.io/badge/TelecomX_Data_normalizado.csv-%23000000?logo=Files&logoColor=yellow&labelColor=blue)](https://github.com/Acheroniano/2025-06-03-G8-Oracle-Alura-Challenge2/blob/main/notebook/TelecomX_Data_normalizado.csv)
+- Arquivo com os dados normalizados, em formato csv, exportado pelo arquivo notebook.
+
+##### TelecomX_Data.json - [![Files badge](https://img.shields.io/badge/TelecomX_Data.json-%23000000?logo=Files&logoColor=yellow&labelColor=blue)](https://github.com/Acheroniano/2025-06-03-G8-Oracle-Alura-Challenge2/blob/main/notebook/TelecomX_Data.json)
+- Arquivo com os dados brutos, em formato json, foi feito download do site do desafio.
+
+##### filtro_clientes_para_contactar.csv - [![Files badge](https://img.shields.io/badge/filtro_clientes_para_contactar.csv-%23000000?logo=Files&logoColor=yellow&labelColor=blue)](https://github.com/Acheroniano/2025-06-03-G8-Oracle-Alura-Challenge2/blob/main/notebook/filtro_clientes_para_contactar.csv)
+- Arquivo com os dados filtrados, clientes femininos que devem ser contactados, em formato csv, exportado pelo arquivo notebook.
+
+##### filtro_clentes_para_contactar_homens.csv - [![Files badge](https://img.shields.io/badge/filtro_clentes_para_contactar_homens.csv-%23000000?logo=Files&logoColor=yellow&labelColor=blue)](https://github.com/Acheroniano/2025-06-03-G8-Oracle-Alura-Challenge2/blob/main/notebook/filtro_clentes_para_contactar_homens.csv)
+- Arquivo com os dados filtrados, clientes masculinos que devem ser contactados, em formato csv, exportado pelo arquivo notebook.  
+
+
