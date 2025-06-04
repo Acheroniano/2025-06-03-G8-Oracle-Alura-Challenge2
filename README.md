@@ -64,18 +64,18 @@ Análise de dados de clientes de uma empresa de telecomunicações.
 
 ### Quantidade de clientes por gênero
 
-![Quantidade de clientes por gênero](../images/003-QtdCliGen.jpeg)
+![Quantidade de clientes por gênero](./images/003-QtdCliGen.jpeg)
 
 ### Custo médio diário por Desistência e Gênero
 
-![Custo médio diário por Desistência e Gênero](../images/005-CusMedDesGen.jpg)
+![Custo médio diário por Desistência e Gênero](./images/005-CusMedDesGen.jpg)
 
 ### Distribuição de clientes por Evasão
 
-![Distribuição de clientes por Evasão](../images/006-Evasao.jpeg)
+![Distribuição de clientes por Evasão](./images/006-Evasao.jpeg)
 
 ### Correlação entre Metodo de Pagamento e Evasão de Clientes
 
-![Correlação entre Metodo de Pagamento e Evasão de Clientes](../images/007-MetoPgoEvasao.jpeg)
+![Correlação entre Metodo de Pagamento e Evasão de Clientes](./images/007-MetoPgoEvasao.jpeg)
 
 ### 
