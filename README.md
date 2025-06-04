@@ -36,6 +36,8 @@ Análise de dados de clientes de uma empresa de telecomunicações.
 ### [Gráficos](#análise-de-dados---gráficos)
 ### [Relatório Final](#análise-de-dados---relatório-final)
 ### Clique aqui para ver a Estrutura do arquivo TelecomX_Data.json bruto - [![Files badge](https://img.shields.io/badge/README.md-%23000000?logo=Files&logoColor=yellow&labelColor=blue)](https://github.com/Acheroniano/2025-06-03-G8-Oracle-Alura-Challenge2/blob/main/journaling/README.md)
+### desafio2alura8oracle.ipynb - [![Files badge](https://img.shields.io/badge/desafio2alura8oracle.ipynb-%23000000?logo=Files&logoColor=yellow&labelColor=blue)](https://github.com/Acheroniano/2025-06-03-G8-Oracle-Alura-Challenge2/blob/main/notebook/desafio2alurag8oracle.ipynb)
+- notebook Jupyter Jupyter contendo células interativas de código e texto para usar no Google Colab e fazer a análise de dados.
 
 <h2 id="análise-de-dados---estrutura-do-repositório"> 📊 Análise de dados - Estrutura do repositório</h2>
 
