@@ -76,6 +76,22 @@ Análise de dados de clientes de uma empresa de telecomunicações.
 
 ### Correlação entre Metodo de Pagamento e Evasão de Clientes
 
-![Correlação entre Metodo de Pagamento e Evasão de Clientes](./images/007-MetoPgoEvasao.jpeg)
+![Correlação entre Metodo de Pagamento e Evasão de Clientes](./images/007-MetPgoEvasao.jpeg)
 
-### 
+### Evasão por Tipo de Contrato
+
+![Evasão por Tipo de Contrato](./images/008-PizzaEvasao.jpeg)  
+
+### Taxa de Evasão por Tipo de Contrato e Gênero
+
+![Taxa de Evasão por Tipo de Contrato e Gênero](./images/009-TaxaEvasaoContratoGenero.jpeg)
+
+<hr>
+<h2> 📊 Relatório Final </h2>
+
+Com as análises, chega-se a conclusão que os contratos mensais, são as principais causas da evasão de clientes, com uma ligeira margem para mulheres com esse tipo de contrato.
+
+Outro fator de evasão, são clientes que usam o metodo de pagamento 'Eletronic Check'.
+
+Recomenda-se contactar os clientes que se encaixam nesse perfil.
+e **renegociar seus contratos**.
